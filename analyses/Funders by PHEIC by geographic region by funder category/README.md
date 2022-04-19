@@ -1,4 +1,4 @@
-# Highest-value donor-recipient subtotals
+# Funders by PHEIC by geographic region by funder category
 This analysis generates a table of funder name, funder category, funder region (WHO), PHEIC name, and percentage of all PHEIC funding.
 
 ## Methodology narrative
