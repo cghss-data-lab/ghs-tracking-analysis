@@ -15,6 +15,7 @@ The sum of the flows is taken grouped by funder name, WHO region, and PHEIC name
 - Funder flow assignment is `direct` (not `unknown`)
 - Funder is among top 30 funders (by disbursements)
 - Funder is of type `Country`
+- Recipient is not `Not reported` (**Note: debatable whether this criterion should be used.**)
 
 ## Terminal command to run analysis
 ```bash
