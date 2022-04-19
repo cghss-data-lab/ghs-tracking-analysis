@@ -11,7 +11,7 @@ TODO
 TODO
 
 ## Running analyses
-The directory `[analyses](./analyses/)` contains one directory per analysis. Each of those contains a `README.md` detailing the analysis and providing instructions for how to run it, if possible.
+The directory [`analyses`](./analyses/) contains one directory per analysis. Each of those contains a `README.md` detailing the analysis and providing instructions for how to run it, if possible.
 
 ## Status of analyses
 You may be looking for the GHS Tracking analysis status tracker, which is available in Airtable here: https://airtable.com/appyn4yMynjyHEE93/tblO4QET69ywVnf0L/viwNWdiueEBIdKjnj?blocks=hide
