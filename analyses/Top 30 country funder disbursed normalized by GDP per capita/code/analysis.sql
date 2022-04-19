@@ -20,4 +20,4 @@ FROM
     LEFT JOIN top_funders tf ON tf."Funder ID" = v."Stakeholder ID"
     LEFT JOIN "research".stakeholders_to_gdp stg ON stg.stakeholder_id = v."Stakeholder ID"
 ORDER BY
-    "Ratio of disbursed and GDP"
+    "Ratio of disbursed and GDP" DESC nulls last
