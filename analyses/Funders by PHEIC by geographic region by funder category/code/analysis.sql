@@ -17,6 +17,7 @@ results AS (
     SELECT
         s.id AS "Funder stakeholder ID",
         s.name AS "Funder name",
+        s.cat_analysis AS "Funder analysis category",
         s.region_who AS "Funder WHO Region",
         s.region_geo AS "Funder geographic region",
         s.subregion_geo AS "Funder geographic sub-region",
