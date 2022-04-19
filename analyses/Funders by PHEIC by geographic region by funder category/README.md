@@ -17,3 +17,6 @@ The sum of the flows is taken grouped by funder name, WHO region, and PHEIC name
 ```bash
 bash run.sh
 ```
+
+## Key takeaways from latest results
+TODO
