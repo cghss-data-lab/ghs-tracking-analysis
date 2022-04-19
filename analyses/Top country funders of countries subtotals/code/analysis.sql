@@ -25,7 +25,7 @@ FROM
     JOIN simple_flows sf ON sf.sf_id = ftsodc.flow_id
 WHERE
     tf."Category (country, international, or philanthropy)" = 'Country'
-    AND target.cat_analysis = 'Country'
+    AND target.sankey_cat = 'Country'
     AND tf."Funder ID" IN (
         SELECT
             *
