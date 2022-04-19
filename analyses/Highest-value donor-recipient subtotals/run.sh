@@ -1,2 +1,6 @@
 # !bin/bash
-psql service=tracking-analysis -f ./code/analysis.sql;
+scriptdir=$(dirname $0)
+origdir=$(pwd)
+cd $scriptdir && \
+bash ../../util/copy.sh ./code/analysis.sql && \
+cd "$origdir";

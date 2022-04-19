@@ -1,3 +1,2 @@
--- TODO
 SELECT
-    'Fake analysis output' AS "result";
+    'Fake analysis output' AS "result"
