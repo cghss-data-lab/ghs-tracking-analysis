@@ -16,6 +16,14 @@ WITH results AS (
     WHERE
         sf.flow_type = 'disbursed_funds'
         AND sf.response_or_capacity = 'response'
+        AND s.id IN (
+            SELECT
+                parent_id
+            FROM
+                children_to_parents_direct_credit
+            WHERE
+                parent_id != child_id
+        )
     GROUP BY
         s.id,
         s.name,
