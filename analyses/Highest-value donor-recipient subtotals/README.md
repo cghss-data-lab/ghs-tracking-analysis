@@ -18,3 +18,6 @@ The sum of the flows is taken grouped by funder and recipient name.
 ```bash
 bash run.sh
 ```
+
+## Key takeaways from latest results
+TODO
