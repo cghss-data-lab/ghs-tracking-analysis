@@ -1,4 +1,19 @@
-WITH results AS (
+WITH top_level_stakeholder_ids AS (
+    SELECT
+        DISTINCT parent_id
+    FROM
+        children_to_parents_direct_credit
+    WHERE
+        parent_id NOT IN (
+            SELECT
+                DISTINCT child_id
+            FROM
+                children_to_parents_direct_credit
+            WHERE
+                parent_id != child_id
+        )
+),
+results AS (
     SELECT
         s.id AS "Funder stakeholder ID",
         s.name AS "Funder name",
@@ -18,11 +33,9 @@ WITH results AS (
         AND sf.response_or_capacity = 'response'
         AND s.id IN (
             SELECT
-                parent_id
+                *
             FROM
-                children_to_parents_direct_credit
-            WHERE
-                parent_id != child_id
+                top_level_stakeholder_ids
         )
     GROUP BY
         s.id,
