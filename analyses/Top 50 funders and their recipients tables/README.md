@@ -1,5 +1,5 @@
-# Top 50 funders and their recipients table
-This analysis generates a table of the top 50 funders in the GHS Tracking dataset and all of the recipients they fund. Their names, funding pathway categories, and identity as a funder/recipient are output.
+# Top 50 funders and their recipients tables
+This analysis generates tables of (1) the top 50 funders in the GHS Tracking dataset and (2) all of the recipients they fund. Their names, funding pathway categories, and identity as a funder/recipient are output.
 
 ## Methodology narrative
 TODO
