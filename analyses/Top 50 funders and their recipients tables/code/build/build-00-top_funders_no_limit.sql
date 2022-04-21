@@ -23,7 +23,16 @@ SELECT
             WHEN sf.flow_type = 'committed_funds' :: flow_types THEN sf.value
             ELSE 0 :: double precision
         END
-    ) AS "Total committed for capacity (USD, nominal)"
+    ) AS "Total committed for capacity (USD, nominal)",
+    round(
+        sum(
+            CASE
+                WHEN sf.flow_type = 'disbursed_funds' :: flow_types THEN sf.value
+                ELSE 0 :: double precision
+            END
+        ) :: NUMERIC / 1e9 :: NUMERIC,
+        2
+    ) AS "Total disbursed for capacity (billion USD, nominal)"
 FROM
     simple_flows sf,
     projects p,
