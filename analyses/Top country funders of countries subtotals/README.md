@@ -24,4 +24,5 @@ bash run.sh
 ```
 
 ## Key takeaways from latest results
-TODO
+- The bilateral (country to country) pathway accounts for 43% or $75 billion worth of transactions. 
+- The US is the top funder of this channel, with $39 billion distributed, followed by U.K. ($9.9B), EU ($6.0B), and Germany ($4.3B). Many nations among the top funders of this channel are also members of NATO.

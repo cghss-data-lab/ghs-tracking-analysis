@@ -24,4 +24,6 @@ bash run.sh
 ```
 
 ## Key takeaways from latest results
-TODO
+- This pathway (philanthropies to countries) accounts for $17 billion (9.8% of total capacity funds) in health security disbursements – much smaller than the bilateral and multilateral channels.
+- Currently, the Bill and Melinda Gates Foundation is the top donor for this pathway, contributing $16.4 billion (96% of the channel) to country recipients globally.
+- The present dataset captures only two other philanthropies (King Salman Humanitarian Aid and Relief Centre, The Power of Nutrition) among the top 50 funders, which may indicate particularly low reporting capacity among these actors.
