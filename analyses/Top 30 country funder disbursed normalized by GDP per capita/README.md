@@ -23,4 +23,7 @@ bash run.sh
 ```
 
 ## Key takeaways from latest results
-TODO
+- U.S. is the top donor overall, with $50 billion disbursed for capacity-building.
+- Of the top governmental donors, major funders of capacity-building efforts are mostly members of the G20 with predictable exceptions (Netherlands, Norway, Finland, Denmark, Sweden, Spain, Belgium, Ireland).
+- The only G20 entities not in the top 30 funders by committed funds are Argentina, Brazil, India, Indonesia, Mexico, Russia, and South Africa, which are all net recipients.
+- NATO countries tend to be leaders in health security funding overall, as they make substantial disbursements relative to GDP.
