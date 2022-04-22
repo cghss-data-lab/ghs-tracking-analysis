@@ -20,4 +20,7 @@ bash run.sh
 ```
 
 ## Key takeaways from latest results
-TODO
+- The largest individual donor-recipient flow is from the U.S.to the Global Fund (excluding 'Not reported'), with $11.3 billion disbursed. 
+- The largest bilateral donor-recipient flow is from the U.S. to South Africa, at $3.6B, followed by U.S. to Nigeria ($2.7B), and U.S. to Kenya ($2.7B). 
+- The Global Fund has given the largest sums of money to countries that the U.S. supports bilaterally in large capacities (i.e. Nigeria, Tanzania, Mozambique, Uganda).
+- Other top donor-recipient channels include the Bill & Melinda Gates Foundation to Low and middle-income countries (LMICs) ($8.9B),the United Kingdom to LMICs ($3.3B), and the U.S. to LMICs ($2.9B). This finding speaks to the large sums of reported funds which do not provide granular information about the recipient.
