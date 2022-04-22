@@ -1,0 +1,2 @@
+# Other exhibits
+This directory contains other exhibits prepared, usually manually, to analyze the GHS Tracking data. For example, a publication-formatted CSV table of GHS Tracking stakeholder categories mapped to their analysis categories ([here](<./Tracking stakeholder sub-category to analysis category table/Tracking stakeholder cat to analysis cat table.csv>)).

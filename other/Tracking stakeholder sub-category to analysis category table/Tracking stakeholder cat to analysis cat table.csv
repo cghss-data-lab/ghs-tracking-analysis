@@ -1,0 +1,14 @@
+﻿GHS Tracking stakeholder category,Auto-tagged stakeholder category for analysis
+"Country or government agency (e.g., ""France"", “USAID”)",Country
+"Region (e.g., “Africa”)",Country
+International non-government organization (NGO),International
+International organization,International
+Multilateral organization,International
+Foundation,Philanthropy
+Academia,Excluded
+National non-government organization (NGO),Excluded
+Private sector organization,Excluded
+World (general global benefit),Excluded
+Organization (general),Not auto-tagged
+Other,Not auto-tagged
+Public-private partnership,Not auto-tagged
