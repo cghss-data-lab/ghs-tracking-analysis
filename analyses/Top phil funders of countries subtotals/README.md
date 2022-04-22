@@ -24,4 +24,6 @@ bash run.sh
 ```
 
 ## Key takeaways from latest results
-TODO
+- This pathway (C) accounts for $17 billion in AHS disbursements – much smaller than the bilateral and IO/NGO channels (9.8% of total capacity funds).
+- Currently, the Bill and Melinda Gates Foundation is the top donor for this pathway, contributing $16.4 billion (96% of the channel) to recipients globally.
+- The present dataset captures only two other philanthropies (King Salman Humanitarian Aid and Relief Centre, The Power of Nutrition) among the top 50 funders, which may indicate particularly low reporting capacity among these actors.
