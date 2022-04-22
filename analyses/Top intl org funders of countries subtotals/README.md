@@ -24,4 +24,6 @@ bash run.sh
 ```
 
 ## Key takeaways from latest results
-TODO
+- Among the top 50 funders overall, 27 stakeholders are international organizations (54%).
+- Although we only track $13B contributed to international organizations by countries, more than $80B flows from international organizations back out to recipient countries. 
+- Just 4 organizations contribute $69B, or 86% of the total disbursed by international organizations to countries. These include the Global Fund, World Bank, United Nations (and its agenecies), and GAVI.
