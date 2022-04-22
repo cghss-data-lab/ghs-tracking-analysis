@@ -19,4 +19,7 @@ bash run.sh
 ```
 
 ## Key takeaways from latest results
-TODO
+- African nations collectively responded to the 2014-16 outbreak of Ebola in West Africa, while Asian nations have contributed proportionally more to COVID-19 response than previous PHEICs. These findings build the foundations for understanding when and why countries become involved with financing, and particularly, how PHEICs motivate response funding so as to improve resource allocation in the future.
+- We identified over $56 billion disbursed during PHEICs, though our topline estimates are consistently lower than numbers reported in the literature for each PHEIC. 
+- International organizations and philanthropies (Bill & Melinda Gates Foundation, U.N., GAVI, World Bank, WHO) drove the response to the polio PHEIC, collectively disbursing over 55% of funds allocated to this event. For most other PHEICs, countries were the primary funders for response.
+- The United States was the top funder for all PHEICs, besides polio (BMGF, $1.7B or 18.67% of all funds) and COVID-19 (GAVI, $7.0B). The U.S. gave $6.4B, or 23% of all funds, for Ebola in West Africa, $11M or 0.12% to respond to Zika, and $211M or 2% for Ebola in the DRC. There were too few H1N1 funds captured to assess top donors.
