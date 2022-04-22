@@ -24,4 +24,6 @@ bash run.sh
 ```
 
 ## Key takeaways from latest results
-TODO
+- We have captured $13B flowing from countries to international orgs, but know $80B flows out of international orgs in total.  This demonstrates the difficulty of documenting dollars end-to-end. 
+- The United States, United Kingdom, European Union, and Germany are the top contributors to international organizations. This aligns with similar findings about top donors overall and top bilateral donors.
+- The top country funders of international organizations are also the top 20 country funders for health security capacity overall. 
