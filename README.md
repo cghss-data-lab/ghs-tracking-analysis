@@ -13,8 +13,24 @@ TODO
 ## Running analyses
 The directory [`analyses`](./analyses/) contains one directory per analysis. Each of those contains a `README.md` detailing the analysis and providing instructions for how to run it, if possible.
 
+### One-time PostgreSQL service setup
+Most analyses require a PostgreSQL service named `tracking-analysis` to be defined as follows.
+1. Create the file `~/.pg_service.conf` by doing terminal command
+    ```bash
+    touch ~/.pg_service.conf
+    ```
+1. Open that file in your preferred text editor.
+1. Add the following to `~/.pg_service.conf`, replacing `SECRET` with your connection information, and save.
+    ```text
+    [tracking-analysis]
+    host=SECRET
+    port=5432
+    user=SECRET
+    dbname=SECRET
+    password=SECRET
+    ```
 ## Adding analyses
-Follow this checklist to add a new analysis.
+Then, follow this checklist to add a new analysis.
 1. Make a copy of the directory [./analyses/Template](./analyses/Template) in its parent directory [./analyses](./analyses) with your system file explorer or with terminal command
     ```bash
     cp -R Template/ "New analysis"
