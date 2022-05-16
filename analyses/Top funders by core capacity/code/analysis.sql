@@ -1,5 +1,3 @@
--- public.top_funders_core_capacities source
-
 CREATE OR REPLACE VIEW public.top_funders_core_capacities
 AS WITH top_level_stakeholder_ids AS (
          SELECT DISTINCT children_to_parents_direct_credit.parent_id
