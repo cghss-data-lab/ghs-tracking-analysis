@@ -37,4 +37,4 @@ AS WITH top_level_stakeholder_ids AS (
     results."Core capacity code",
     results."Total disbursed (nominal USD)",
     round((results."Total disbursed (nominal USD)" / sum(results."Total disbursed (nominal USD)") OVER (ORDER BY results."Core capacity"))::numeric * 100.0, 2) AS "Percentage of disbursements for this Core capacity"
-   FROM results;
+   FROM results
