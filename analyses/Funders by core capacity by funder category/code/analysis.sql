@@ -50,4 +50,4 @@ select
 	results."Total disbursed (nominal USD)",
 	round((results."Total disbursed (nominal USD)" / sum(results."Total disbursed (nominal USD)") over (order by results."Core capacity"))::numeric * 100.0, 2) as "Percentage of disbursements for this Core capacity"
 from
-	results;
+	results
