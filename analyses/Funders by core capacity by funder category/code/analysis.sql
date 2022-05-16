@@ -1,3 +1,4 @@
+SELECT * from public.core_capacity_funders_by_category
 as with top_level_stakeholder_ids as (
 select
 	distinct children_to_parents_direct_credit.parent_id
