@@ -15,7 +15,10 @@ The directory [`analyses`](./analyses/) contains one directory per analysis. Eac
 
 ## Adding analyses
 Follow this checklist to add a new analysis.
-1. Make a copy of the directory [./analyses/Template](./analyses/Template) in its parent directory [./analyses](./analyses)
+1. Make a copy of the directory [./analyses/Template](./analyses/Template) in its parent directory [./analyses](./analyses) with your system file explorer or with terminal command
+    ```bash
+    cp -R Template/ "New analysis"
+    ```
 1. Rename the copy to the sentence-case, plain language name of your analysis in ~45 characters or fewer, e.g., `Top intl org funders of countries subtotals`
 1. Go to that directory, which we'll refer to as `./analyses/New analysis` for this checklist
 1. In `./analyses/New analysis/code/analysis.sql`, replace the contents of the file with your SQL query, ensuring you do NOT end it with a semicolon
