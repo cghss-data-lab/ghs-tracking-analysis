@@ -1,4 +1,4 @@
-SELECT * from public.core_capacities_by_region
+SELECT * from public.core_capacity_funders_by_region
 AS WITH top_level_stakeholder_ids AS (
          SELECT DISTINCT children_to_parents_direct_credit.parent_id
            FROM children_to_parents_direct_credit
