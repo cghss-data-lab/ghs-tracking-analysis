@@ -13,5 +13,18 @@ TODO
 ## Running analyses
 The directory [`analyses`](./analyses/) contains one directory per analysis. Each of those contains a `README.md` detailing the analysis and providing instructions for how to run it, if possible.
 
+## Adding analyses
+Follow this checklist to add a new analysis.
+1. Make a copy of the directory (./analyses/Template)[./analyses/Template] in its parent directory (./analyses)[./analyses]
+1. Rename the copy to the sentence-case, plain language name of your analysis in ~45 characters or fewer, e.g., `Top intl org funders of countries subtotals`
+1. Go to that directory, which we'll refer to as `./analyses/New analysis` for this checklist
+1. In `./analyses/New analysis/code/analysis.sql`, replace the contents of the file with your SQL query, ensuring you do NOT end it with a semicolon
+1. In `./analyses/New analysis/README.md`, replace template placeholders with your own content.
+1. While in directory `./analyses/New analysis`, do the following terminal command to run your analysis:
+    ```bash
+    bash run.sh
+    ```
+1. After, look in `./analyses/New analysis/results` for your results.
+
 ## Status of analyses
 You may be looking for the GHS Tracking analysis status tracker, which is available in Airtable here: https://airtable.com/appyn4yMynjyHEE93/tblO4QET69ywVnf0L/viwNWdiueEBIdKjnj?blocks=hide
