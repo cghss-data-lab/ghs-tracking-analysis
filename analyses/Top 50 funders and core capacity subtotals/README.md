@@ -8,7 +8,7 @@ A SQL query joins stakeholders to flows that they funded. Only "direct" flows ar
 ## List of filters
 List the filter criteria used in the SQL query below.
 - Flow type `disbursed_funds`
-- Funder in 'Top 50 funders'
+- Funder is among top 50 funders (by disbursements)
 - Funder flow assignment is `direct` (not `unknown`)
 
 ## Terminal command to run analysis
