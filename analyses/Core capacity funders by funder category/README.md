@@ -1,14 +1,13 @@
-# Template
-This this a template for creating a SQL query analysis that outputs results tables in CSV format.
+# Core capacity funders by funder category
+This analysis generates a table showing the capacaties funded by each funder type as a cumulative value and percentage of all capacity funding.
 
 ## Methodology narrative
-Write a short description of the methodology of the SQL query in this section.
+A SQL query joins stakeholders to flows that they funded and aggregates by funder type. Only "direct" flows are considered, i.e., not flows where the funder was part of a group of stakeholders among which individual amounts were not specified. The flows are joined to the core capacities they funded.
 
 ## List of filters
 List the filter criteria used in the SQL query below.
-- Filter 1
-- ...
-- Filter N
+- Flow type `disbursed funds`
+- Funder flow assignment is `direct` (not `unknown`)
 
 ## Terminal command to run analysis
 ```bash
