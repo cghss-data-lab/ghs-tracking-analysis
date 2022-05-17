@@ -1,2 +1,1 @@
-SELECT
-    1 AS "first_column"
+SELECT * AS public.pathway_proportions_over_time
