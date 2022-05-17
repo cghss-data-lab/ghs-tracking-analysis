@@ -1,2 +1,5 @@
+
 SELECT
-    1 AS "first_column"
+    *
+FROM
+    public.core_capacity_funders_by_region
