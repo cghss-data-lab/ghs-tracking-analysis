@@ -1,0 +1,250 @@
+Funder stakeholder ID,Funder name (among top 50 only),Funder analysis category,Core capacity,Core capacity code,Total disbursed (nominal USD),Percentage of disbursements for this Core capacity
+1120,Asian Development Bank,International,Antimicrobial Resistance (AMR),P.3,252266455,36.02
+1244,Inter-American Development Bank,International,Antimicrobial Resistance (AMR),P.3,150000210,21.42
+1428,United Nations (UN),International,Antimicrobial Resistance (AMR),P.3,48314580.614000015,6.90
+1078,United States of America,Country,Antimicrobial Resistance (AMR),P.3,45539932.11,6.50
+1059,Sweden,Country,Antimicrobial Resistance (AMR),P.3,45404686.56981425,6.48
+1102,African Development Bank,International,Antimicrobial Resistance (AMR),P.3,29985043.568750277,4.28
+1075,United Kingdom,Country,Antimicrobial Resistance (AMR),P.3,29400765.87331959,4.20
+869,Germany,Country,Antimicrobial Resistance (AMR),P.3,24562073.59429746,3.51
+1467,World Bank,International,Antimicrobial Resistance (AMR),P.3,15454983.039999997,2.21
+1129,Bill & Melinda Gates Foundation,Philanthropy,Antimicrobial Resistance (AMR),P.3,12490628,1.78
+1200,European Union,Country,Antimicrobial Resistance (AMR),P.3,12275933.644644326,1.75
+1055,Spain,Country,Antimicrobial Resistance (AMR),P.3,8609820.945566073,1.23
+1010,New Zealand,Country,Antimicrobial Resistance (AMR),P.3,8574500.82913977,1.22
+908,Canada,Country,Antimicrobial Resistance (AMR),P.3,4335563.412729252,0.62
+883,Australia,Country,Antimicrobial Resistance (AMR),P.3,3384658.0223885714,0.48
+891,Belgium,Country,Antimicrobial Resistance (AMR),P.3,3041391.5713044116,0.43
+927,Denmark,Country,Antimicrobial Resistance (AMR),P.3,2452343.7206758326,0.35
+971,Italy,Country,Antimicrobial Resistance (AMR),P.3,1731999.740391035,0.25
+1352,Plan International,International,Antimicrobial Resistance (AMR),P.3,1201550.1416109805,0.17
+1333,Oxfam International,International,Antimicrobial Resistance (AMR),P.3,1080851.2125729546,0.15
+969,Ireland,Country,Antimicrobial Resistance (AMR),P.3,159667.89929337666,0.02
+1120,Asian Development Bank,International,Emergency Response Operations,R.2,1578527108.87,18.49
+1102,African Development Bank,International,Emergency Response Operations,R.2,1225358909.6435556,14.35
+1078,United States of America,Country,Emergency Response Operations,R.2,686227506.7799996,8.04
+1200,European Union,Country,Emergency Response Operations,R.2,592228516.2706956,6.94
+1059,Sweden,Country,Emergency Response Operations,R.2,505540884.1522251,5.92
+1244,Inter-American Development Bank,International,Emergency Response Operations,R.2,503461824,5.90
+945,France,Country,Emergency Response Operations,R.2,464191416.46554315,5.44
+1428,United Nations (UN),International,Emergency Response Operations,R.2,457191669.0000002,5.35
+869,Germany,Country,Emergency Response Operations,R.2,349494484.3275025,4.09
+1075,United Kingdom,Country,Emergency Response Operations,R.2,224789289.01699468,2.63
+1129,Bill & Melinda Gates Foundation,Philanthropy,Emergency Response Operations,R.2,205910998.5299999,2.41
+868,Netherlands,Country,Emergency Response Operations,R.2,162412648.39702874,1.90
+1010,New Zealand,Country,Emergency Response Operations,R.2,136231429.9007907,1.60
+908,Canada,Country,Emergency Response Operations,R.2,129252541.56098564,1.51
+1472,World Health Organization (WHO),International,Emergency Response Operations,R.2,123263097.55999994,1.44
+927,Denmark,Country,Emergency Response Operations,R.2,86078293.30421616,1.01
+1467,World Bank,International,Emergency Response Operations,R.2,85629762,1.00
+1701,King Salman Humanitarian Aid and Relief Centre,Philanthropy,Emergency Response Operations,R.2,74271410,0.87
+883,Australia,Country,Emergency Response Operations,R.2,60612729.64616124,0.71
+891,Belgium,Country,Emergency Response Operations,R.2,57246944.40717445,0.67
+1333,Oxfam International,International,Emergency Response Operations,R.2,37966930.17143535,0.44
+1055,Spain,Country,Emergency Response Operations,R.2,30210875.75381846,0.35
+969,Ireland,Country,Emergency Response Operations,R.2,12886370.771264322,0.15
+944,Finland,Country,Emergency Response Operations,R.2,10830474.889687633,0.13
+1060,Switzerland,Country,Emergency Response Operations,R.2,9500945.940605765,0.11
+1377,Save the Children,International,Emergency Response Operations,R.2,8337271.815517264,0.10
+1172,Cordaid,International,Emergency Response Operations,R.2,7606120.687374498,0.09
+971,Italy,Country,Emergency Response Operations,R.2,5398381.68373104,0.06
+1030,Republic of Korea,Country,Emergency Response Operations,R.2,4744074.921683776,0.06
+1352,Plan International,International,Emergency Response Operations,R.2,1990781.4042758422,0.02
+1383,Sightsavers,International,Emergency Response Operations,R.2,78339.40667912421,0.00
+1257,International Labour Organization (ILO),International,Emergency Response Operations,R.2,64954,0.00
+1078,United States of America,Country,Food Safety,P.5,55444544.54,0.64
+1200,European Union,Country,Food Safety,P.5,45065935.30681268,0.52
+1075,United Kingdom,Country,Food Safety,P.5,37008502.678423084,0.42
+868,Netherlands,Country,Food Safety,P.5,11546664.935940234,0.13
+1059,Sweden,Country,Food Safety,P.5,10828517.916091226,0.12
+869,Germany,Country,Food Safety,P.5,7195641.419838928,0.08
+1129,Bill & Melinda Gates Foundation,Philanthropy,Food Safety,P.5,6643407.1899999995,0.08
+1472,World Health Organization (WHO),International,Food Safety,P.5,4654719.81,0.05
+1428,United Nations (UN),International,Food Safety,P.5,4107497.4050000003,0.05
+969,Ireland,Country,Food Safety,P.5,3662718.6719628186,0.04
+1010,New Zealand,Country,Food Safety,P.5,2439057.7387922746,0.03
+1055,Spain,Country,Food Safety,P.5,1407203.2177774103,0.02
+908,Canada,Country,Food Safety,P.5,401771.0854206241,0.00
+945,France,Country,Food Safety,P.5,149027.01511728327,0.00
+1333,Oxfam International,International,Food Safety,P.5,77840.36848285024,0.00
+971,Italy,Country,Food Safety,P.5,39531.910162943765,0.00
+869,Germany,Country,Immunization,P.7,2446130169.2996855,9.83
+1120,Asian Development Bank,International,Immunization,P.7,2342770183.04,9.41
+1200,European Union,Country,Immunization,P.7,2320241883.447512,9.32
+1075,United Kingdom,Country,Immunization,P.7,1469314835.3427694,5.90
+1472,World Health Organization (WHO),International,Immunization,P.7,1103362051.1,4.43
+1102,African Development Bank,International,Immunization,P.7,858854783.2729317,3.45
+1428,United Nations (UN),International,Immunization,P.7,855276827.1276324,3.44
+1129,Bill & Melinda Gates Foundation,Philanthropy,Immunization,P.7,673412913.1999999,2.71
+908,Canada,Country,Immunization,P.7,589107223.1795031,2.37
+1467,World Bank,International,Immunization,P.7,506920783,2.04
+1017,Norway,Country,Immunization,P.7,465509992.048,1.87
+1078,United States of America,Country,Immunization,P.7,462448589.64922947,1.86
+1059,Sweden,Country,Immunization,P.7,368894832.19211566,1.48
+973,Japan,Country,Immunization,P.7,224328235.65682465,0.90
+868,Netherlands,Country,Immunization,P.7,217756872.46365213,0.87
+1411,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",International,Immunization,P.7,191072683,0.77
+971,Italy,Country,Immunization,P.7,137129598.3749815,0.55
+1055,Spain,Country,Immunization,P.7,111737944.4506262,0.45
+927,Denmark,Country,Immunization,P.7,111356124.25755516,0.45
+1460,Wellcome Trust,Philanthropy,Immunization,P.7,96584005,0.39
+1060,Switzerland,Country,Immunization,P.7,87523680.87755047,0.35
+945,France,Country,Immunization,P.7,76446864.54427469,0.31
+1244,Inter-American Development Bank,International,Immunization,P.7,66825706,0.27
+883,Australia,Country,Immunization,P.7,63212868.549109414,0.25
+1010,New Zealand,Country,Immunization,P.7,61077788.30963959,0.25
+1224,Global Alliance for Vaccines and Immunisation (GAVI),International,Immunization,P.7,59823729,0.24
+1030,Republic of Korea,Country,Immunization,P.7,53472548.214515544,0.21
+944,Finland,Country,Immunization,P.7,35626522.12730779,0.14
+891,Belgium,Country,Immunization,P.7,32470983.15243994,0.13
+1333,Oxfam International,International,Immunization,P.7,27598034.1450499,0.11
+969,Ireland,Country,Immunization,P.7,24841037.731905993,0.10
+1701,King Salman Humanitarian Aid and Relief Centre,Philanthropy,Immunization,P.7,16000000,0.06
+1352,Plan International,International,Immunization,P.7,3596899.4955552425,0.01
+1172,Cordaid,International,Immunization,P.7,1893555.272626122,0.01
+1643,Concern Worldwide,International,Immunization,P.7,1019047.8231780746,0.00
+1377,Save the Children,International,Immunization,P.7,643190.90253764,0.00
+1383,Sightsavers,International,Immunization,P.7,3180.451727704834,0.00
+1428,United Nations (UN),International,Linking Public Health and Security Authorities,R.3,11654909.69607843,0.05
+1472,World Health Organization (WHO),International,Linking Public Health and Security Authorities,R.3,6761.53,0.00
+1428,United Nations (UN),International,Medical Countermeasures and Personnel Deployment,R.4,9282643.16,0.04
+1200,European Union,Country,Medical Countermeasures and Personnel Deployment,R.4,8845218.647849884,0.04
+908,Canada,Country,Medical Countermeasures and Personnel Deployment,R.4,379698.6505751449,0.00
+1129,Bill & Melinda Gates Foundation,Philanthropy,Medical Countermeasures and Personnel Deployment,R.4,15000,0.00
+1102,African Development Bank,International,National Laboratory System,D.1,446581106.1117792,1.73
+1078,United States of America,Country,National Laboratory System,D.1,120581828.12999998,0.47
+1200,European Union,Country,National Laboratory System,D.1,57638145.902016506,0.22
+1428,United Nations (UN),International,National Laboratory System,D.1,56680652.04620437,0.22
+1129,Bill & Melinda Gates Foundation,Philanthropy,National Laboratory System,D.1,52813639.91,0.20
+1059,Sweden,Country,National Laboratory System,D.1,47741927.13812973,0.18
+869,Germany,Country,National Laboratory System,D.1,39875652.37555693,0.15
+945,France,Country,National Laboratory System,D.1,25554762.98912926,0.10
+868,Netherlands,Country,National Laboratory System,D.1,17114196.07720896,0.07
+1333,Oxfam International,International,National Laboratory System,D.1,15908437.412021557,0.06
+1075,United Kingdom,Country,National Laboratory System,D.1,12091554.620371532,0.05
+1472,World Health Organization (WHO),International,National Laboratory System,D.1,11645277.86,0.05
+1055,Spain,Country,National Laboratory System,D.1,9350923.800052032,0.04
+891,Belgium,Country,National Laboratory System,D.1,7299339.771130588,0.03
+883,Australia,Country,National Laboratory System,D.1,4390444.683641285,0.02
+927,Denmark,Country,National Laboratory System,D.1,3104760.751843574,0.01
+969,Ireland,Country,National Laboratory System,D.1,2272226.583026183,0.01
+971,Italy,Country,National Laboratory System,D.1,1516787.1763494723,0.01
+908,Canada,Country,National Laboratory System,D.1,1326540.6886907197,0.01
+1060,Switzerland,Country,National Laboratory System,D.1,1009410.2046918186,0.00
+1010,New Zealand,Country,National Laboratory System,D.1,215183.51627242638,0.00
+944,Finland,Country,National Laboratory System,D.1,121655.66285217645,0.00
+1352,Plan International,International,National Laboratory System,D.1,114689.12837319754,0.00
+1257,International Labour Organization (ILO),International,National Laboratory System,D.1,98679,0.00
+1030,Republic of Korea,Country,National Laboratory System,D.1,24457.177270026947,0.00
+869,Germany,Country,"National Legislation, Policy, and Financing",P.1,58018914.012505665,0.22
+1078,United States of America,Country,"National Legislation, Policy, and Financing",P.1,52081399.8,0.20
+1467,World Bank,International,"National Legislation, Policy, and Financing",P.1,30000000,0.11
+1428,United Nations (UN),International,"National Legislation, Policy, and Financing",P.1,29487376.119999997,0.11
+1102,African Development Bank,International,"National Legislation, Policy, and Financing",P.1,26356912.928569883,0.10
+1059,Sweden,Country,"National Legislation, Policy, and Financing",P.1,26119604.817545414,0.10
+1200,European Union,Country,"National Legislation, Policy, and Financing",P.1,10293546.066252705,0.04
+1075,United Kingdom,Country,"National Legislation, Policy, and Financing",P.1,8891632.833109481,0.03
+1472,World Health Organization (WHO),International,"National Legislation, Policy, and Financing",P.1,4685906.73,0.02
+1333,Oxfam International,International,"National Legislation, Policy, and Financing",P.1,3722415.8838614337,0.01
+1129,Bill & Melinda Gates Foundation,Philanthropy,"National Legislation, Policy, and Financing",P.1,2095232.4,0.01
+1352,Plan International,International,"National Legislation, Policy, and Financing",P.1,2055891.6502565744,0.01
+1701,King Salman Humanitarian Aid and Relief Centre,Philanthropy,"National Legislation, Policy, and Financing",P.1,1000000,0.00
+1055,Spain,Country,"National Legislation, Policy, and Financing",P.1,386521.4401124603,0.00
+1060,Switzerland,Country,"National Legislation, Policy, and Financing",P.1,320715.616875327,0.00
+969,Ireland,Country,"National Legislation, Policy, and Financing",P.1,24331.132570435293,0.00
+908,Canada,Country,"National Legislation, Policy, and Financing",P.1,15299.442932817366,0.00
+945,France,Country,"National Legislation, Policy, and Financing",P.1,3463.99948078207,0.00
+1472,World Health Organization (WHO),International,Point of Entry (PoE),PoE,1392367.1699999997,0.01
+1078,United States of America,Country,Point of Entry (PoE),PoE,147958.84,0.00
+1472,World Health Organization (WHO),International,Preparedness,R.1,7836018.889999997,0.03
+1078,United States of America,Country,Preparedness,R.1,7127734.87,0.03
+1428,United Nations (UN),International,Preparedness,R.1,4447093.1,0.02
+1010,New Zealand,Country,Preparedness,R.1,1552802.7354237516,0.01
+1055,Spain,Country,Preparedness,R.1,923750.517590398,0.00
+1059,Sweden,Country,Preparedness,R.1,478484.5220061455,0.00
+969,Ireland,Country,Preparedness,R.1,39311.8108940523,0.00
+1102,African Development Bank,International,Radiation Emergencies,RE,47384832.532784104,0.18
+1078,United States of America,Country,Radiation Emergencies,RE,28203536.35,0.11
+1059,Sweden,Country,Radiation Emergencies,RE,22263117.113487724,0.08
+1244,Inter-American Development Bank,International,Radiation Emergencies,RE,21048661,0.08
+1129,Bill & Melinda Gates Foundation,Philanthropy,Radiation Emergencies,RE,8448699.16,0.03
+1428,United Nations (UN),International,Radiation Emergencies,RE,7728802.430000001,0.03
+1075,United Kingdom,Country,Radiation Emergencies,RE,7416614.675144934,0.03
+1200,European Union,Country,Radiation Emergencies,RE,4975986.595163839,0.02
+969,Ireland,Country,Radiation Emergencies,RE,683926.2385356227,0.00
+1055,Spain,Country,Radiation Emergencies,RE,396587.251179651,0.00
+1333,Oxfam International,International,Radiation Emergencies,RE,268890.2560442588,0.00
+868,Netherlands,Country,Radiation Emergencies,RE,240835.7203072433,0.00
+869,Germany,Country,Radiation Emergencies,RE,221884.80763197909,0.00
+1472,World Health Organization (WHO),International,Radiation Emergencies,RE,197946.87999999998,0.00
+1643,Concern Worldwide,International,Radiation Emergencies,RE,81236.82812760501,0.00
+1030,Republic of Korea,Country,Radiation Emergencies,RE,36614.584074751605,0.00
+1120,Asian Development Bank,International,Real Time Surveillance,D.2,500000000,1.84
+1102,African Development Bank,International,Real Time Surveillance,D.2,116879749.7782132,0.43
+1078,United States of America,Country,Real Time Surveillance,D.2,115494815.25,0.42
+1200,European Union,Country,Real Time Surveillance,D.2,40748464.87802358,0.15
+1428,United Nations (UN),International,Real Time Surveillance,D.2,35915355.12782178,0.13
+1244,Inter-American Development Bank,International,Real Time Surveillance,D.2,34000000,0.13
+1059,Sweden,Country,Real Time Surveillance,D.2,21677505.297345407,0.08
+927,Denmark,Country,Real Time Surveillance,D.2,12428481.480059901,0.05
+1129,Bill & Melinda Gates Foundation,Philanthropy,Real Time Surveillance,D.2,11421506,0.04
+908,Canada,Country,Real Time Surveillance,D.2,4216308.562898502,0.02
+1075,United Kingdom,Country,Real Time Surveillance,D.2,3767309.6446452634,0.01
+969,Ireland,Country,Real Time Surveillance,D.2,3541754.404506354,0.01
+1030,Republic of Korea,Country,Real Time Surveillance,D.2,2712044.5174768884,0.01
+869,Germany,Country,Real Time Surveillance,D.2,2257493.9924228652,0.01
+1060,Switzerland,Country,Real Time Surveillance,D.2,1420495.6051769352,0.01
+883,Australia,Country,Real Time Surveillance,D.2,1300484.143357452,0.00
+891,Belgium,Country,Real Time Surveillance,D.2,1155728.7970956764,0.00
+1472,World Health Organization (WHO),International,Real Time Surveillance,D.2,916111.0200000001,0.00
+1333,Oxfam International,International,Real Time Surveillance,D.2,549949.3073668864,0.00
+1055,Spain,Country,Real Time Surveillance,D.2,425550.2865212862,0.00
+1383,Sightsavers,International,Real Time Surveillance,D.2,26001.39962211304,0.00
+1428,United Nations (UN),International,Reporting,D.3,248692013.42144686,0.90
+1244,Inter-American Development Bank,International,Reporting,D.3,228447147,0.82
+1078,United States of America,Country,Reporting,D.3,13682621.21,0.05
+883,Australia,Country,Reporting,D.3,10153974.067165714,0.04
+944,Finland,Country,Reporting,D.3,7504177.541867558,0.03
+1200,European Union,Country,Reporting,D.3,7230315.832863281,0.03
+1059,Sweden,Country,Reporting,D.3,3779536.7927294043,0.01
+1472,World Health Organization (WHO),International,Reporting,D.3,1630190.3800000004,0.01
+971,Italy,Country,Reporting,D.3,1154666.4935940236,0.00
+1055,Spain,Country,Reporting,D.3,523518.0745041375,0.00
+1129,Bill & Melinda Gates Foundation,Philanthropy,Reporting,D.3,321051,0.00
+969,Ireland,Country,Reporting,D.3,10082.667529659278,0.00
+1472,World Health Organization (WHO),International,Risk Communication,R.5,34905348.090000026,0.13
+868,Netherlands,Country,Risk Communication,R.5,18248349.427826468,0.07
+869,Germany,Country,Risk Communication,R.5,12165566.285217647,0.04
+1059,Sweden,Country,Risk Communication,R.5,2415561.853263407,0.01
+1078,United States of America,Country,Risk Communication,R.5,2310624.58,0.01
+908,Canada,Country,Risk Communication,R.5,399083.63031600247,0.00
+1428,United Nations (UN),International,Risk Communication,R.5,129483.95999999999,0.00
+969,Ireland,Country,Risk Communication,R.5,29050.15573247122,0.00
+1428,United Nations (UN),International,Workforce Development,D.4,396925092.2716006,1.40
+1078,United States of America,Country,Workforce Development,D.4,89560538.47000001,0.32
+1472,World Health Organization (WHO),International,Workforce Development,D.4,82961.91,0.00
+1200,European Union,Country,Workforce Development,D.4,11144.840996169512,0.00
+1120,Asian Development Bank,International,Zoonotic Disease,P.4,250857465.28,0.86
+1102,African Development Bank,International,Zoonotic Disease,P.4,163184273.16807407,0.56
+1428,United Nations (UN),International,Zoonotic Disease,P.4,110781307.27999999,0.38
+1059,Sweden,Country,Zoonotic Disease,P.4,58987218.91873211,0.20
+1078,United States of America,Country,Zoonotic Disease,P.4,51999883.50999999,0.18
+1075,United Kingdom,Country,Zoonotic Disease,P.4,42982397.65954083,0.15
+1200,European Union,Country,Zoonotic Disease,P.4,34156554.31269038,0.12
+1467,World Bank,International,Zoonotic Disease,P.4,31613585,0.11
+1129,Bill & Melinda Gates Foundation,Philanthropy,Zoonotic Disease,P.4,30716798,0.11
+1472,World Health Organization (WHO),International,Zoonotic Disease,P.4,25145965.539999995,0.09
+869,Germany,Country,Zoonotic Disease,P.4,23789741.941208404,0.08
+868,Netherlands,Country,Zoonotic Disease,P.4,18248349.427826468,0.06
+945,France,Country,Zoonotic Disease,P.4,7519765.539531077,0.03
+1055,Spain,Country,Zoonotic Disease,P.4,5994425.695123406,0.02
+1010,New Zealand,Country,Zoonotic Disease,P.4,4961449.590739492,0.02
+908,Canada,Country,Zoonotic Disease,P.4,4575413.688497708,0.02
+1060,Switzerland,Country,Zoonotic Disease,P.4,4487228.97304674,0.02
+1333,Oxfam International,International,Zoonotic Disease,P.4,3796503.778491408,0.01
+927,Denmark,Country,Zoonotic Disease,P.4,3269791.627567777,0.01
+1352,Plan International,International,Zoonotic Disease,P.4,687588.1172745826,0.00
+944,Finland,Country,Zoonotic Disease,P.4,616518.7637069705,0.00
+969,Ireland,Country,Zoonotic Disease,P.4,526336.3459735655,0.00
+1168,Clinton Health Access Initiative,International,Zoonotic Disease,P.4,111065.50589002331,0.00
+971,Italy,Country,Zoonotic Disease,P.4,101278.6677947266,0.00
