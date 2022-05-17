@@ -1,2 +1,3 @@
 SELECT
-    1 AS "first_column"
+    *
+AS public.top_funders_core_capacities
