@@ -29,7 +29,6 @@ results AS (
         JOIN core_capacities c ON c.id = ccstf.cc_id
     WHERE
         sf.flow_type = 'disbursed_funds' :: flow_types
-        AND sf.response_or_capacity = 'response' :: response_or_capacity_vals
         AND (
             s.id IN (
                 SELECT
