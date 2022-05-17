@@ -1,14 +1,15 @@
-# Template
-This this a template for creating a SQL query analysis that outputs results tables in CSV format.
+# Top 50 funders and core capacity subtotals
+This analysis generates a table of funder name, funder category, funder region (WHO), core capacity name, and percentage of all core capacity funding.
 
 ## Methodology narrative
-Write a short description of the methodology of the SQL query in this section.
+A SQL query joins stakeholders to flows that they funded. Only "direct" flows are considered, i.e., not flows where the funder was part of a group of stakeholders among which individual amounts were not specified. The flows are joined to the core capacity they funded. The sum of the flows is taken grouped by funder name, WHO region, and core capacity name.
+
 
 ## List of filters
 List the filter criteria used in the SQL query below.
-- Filter 1
-- ...
-- Filter N
+- Flow type `disbursed_funds`
+- Funder in 'Top 50 funders'
+- Funder flow assignment is `direct` (not `unknown`)
 
 ## Terminal command to run analysis
 ```bash
