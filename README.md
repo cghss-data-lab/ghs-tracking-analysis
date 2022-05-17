@@ -37,7 +37,7 @@ Then, follow this checklist to add a new analysis.
     ```
 1. Rename the copy to the sentence-case, plain language name of your analysis in ~45 characters or fewer, e.g., `Top intl org funders of countries subtotals`
 1. Go to that directory, which we'll refer to as `./analyses/New analysis` for this checklist
-1. Optional: In `./analyses/New analysis/code/build.sql`, replace the contents of the file with any SQL statements that need to be run in order for your analysis SQL (see next step) to work, e.g., creating views used by the analysis SQL
+1. Optional: In `./analyses/New analysis/code/setup.sql`, replace the contents of the file with any SQL statements that need to be run in order for your analysis SQL (see next step) to work, e.g., creating views used by the analysis SQL
 1. In `./analyses/New analysis/code/analysis.sql`, replace the contents of the file with your SQL query, ensuring you do NOT end it with a semicolon
 1. In `./analyses/New analysis/README.md`, replace template placeholders with your own content.
 1. While in directory `./analyses/New analysis`, do the following terminal command to run your analysis:

@@ -1,7 +1,7 @@
 #!/bin/bash
 scriptdir=$(dirname "$0")
 origdir=$(pwd)
-bash ./code/build.sh &&
+bash ./code/setup.sh &&
     cd "$scriptdir" &&
     bash ../../util/copy.sh ./code/analysis-funders.sql "Top 50 funders table" &&
     bash ../../util/copy.sh ./code/analysis-recipients.sql "Recipients of top 50 funders table" &&

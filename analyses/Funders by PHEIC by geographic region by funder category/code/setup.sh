@@ -3,9 +3,9 @@
 scriptdir=$(dirname "$0")
 origdir=$(pwd)
 cd "$scriptdir" &&
-    if [ -d "./build" ]; then
-        echo "Running SQL files to build"
-        for f in ./build/*.sql; do
+    if [ -d "./setup" ]; then
+        echo "Running SQL files to set up"
+        for f in ./setup/*.sql; do
             [[ -e "$f" ]] || break # handle the case of no *.sql files
             echo "Running SQL file $f"
             psql service=tracking-analysis -f "$f" >/dev/null
@@ -16,6 +16,6 @@ cd "$scriptdir" &&
         done
 
     else
-        echo "Error: \`build\` directory not found"
+        echo "Error: \`setup\` directory not found"
     fi
 cd "$origdir" || exit
