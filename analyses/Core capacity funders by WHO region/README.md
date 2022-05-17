@@ -1,4 +1,4 @@
-# Template
+# Core capacity funders by WHO region
 This analysis generates a table showing the capacaties funded by each WHO region as a cumulative value and percentage of all capacity funding.
 
 ## Methodology narrative
