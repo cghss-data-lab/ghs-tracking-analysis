@@ -17,7 +17,7 @@ AS WITH top_level_stakeholder_ids AS (
              JOIN simple_flows sf ON sf.sf_id = ftsodc.flow_id
              JOIN ccs_to_flows ccstf ON ccstf.cc_flow_id = sf.sf_id
              JOIN core_capacities c ON c.id = ccstf.cc_id
-          WHERE sf.flow_type = 'disbursed_funds'::flow_types AND sf.response_or_capacity = 'response'::response_or_capacity_vals AND (tf."Funder ID" IN ( SELECT top_level_stakeholder_ids.parent_id
+          WHERE sf.flow_type = 'disbursed_funds'::flow_types AND (tf."Funder ID" IN ( SELECT top_level_stakeholder_ids.parent_id
                    FROM top_level_stakeholder_ids))
           GROUP BY tf."Funder ID", tf."Funder name", tf."Category (country, international, or philanthropy)", c.fullname, c.name
           ORDER BY c.fullname, (sum(sf.value)) DESC
