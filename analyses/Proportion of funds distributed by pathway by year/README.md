@@ -1,14 +1,13 @@
-# Template
-This this a template for creating a SQL query analysis that outputs results tables in CSV format.
+# Proportion of funds distributed by pathway by year
+This analysis generates a table of funder category, recipient category, amount distributed by year, and percentage of total distributions to that pathway over time.
 
 ## Methodology narrative
-Write a short description of the methodology of the SQL query in this section.
+A SQL query joins stakeholders to flows which they funded and the corresponding recipients. Only "direct" flows are considered, i.e., not flows where the funder was part of a group of stakeholders among which individual amounts were not specified. The flows are grouped by funder category, recipient category, and year disbursed.
 
 ## List of filters
 List the filter criteria used in the SQL query below.
-- Filter 1
-- ...
-- Filter N
+- Flow type `disbursed_funds`
+- Funder flow assignment is `direct` (not `unknown`)
 
 ## Terminal command to run analysis
 ```bash
