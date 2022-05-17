@@ -1,1 +1,1 @@
-SELECT * AS public.pathway_proportions_over_time
+SELECT * FROM public.pathway_proportions_over_time
