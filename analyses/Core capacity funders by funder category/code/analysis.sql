@@ -17,7 +17,7 @@ WITH top_level_stakeholder_ids AS (
 ),
 results AS (
     SELECT
-        s.cat_analysis AS "Funder analysis category",
+        s.sankey_cat AS "Funder analysis category",
         c.fullname AS "Core capacity",
         c.name AS "Core capacity code",
         sum(sf.value) AS "Total disbursed (nominal USD)"
@@ -40,7 +40,7 @@ results AS (
     GROUP BY
         c.fullname,
         c.name,
-        s.cat_analysis
+        s.sankey_cat
     ORDER BY
         c.fullname,
         (sum(sf.value)) DESC
