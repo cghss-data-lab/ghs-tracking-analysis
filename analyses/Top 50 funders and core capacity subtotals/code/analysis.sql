@@ -1,3 +1,3 @@
 SELECT
     *
-AS public.top_funders_core_capacities
+FROM public.top_funders_core_capacities
