@@ -25,10 +25,11 @@ results AS (
         stakeholders s
         JOIN flows_to_stakeholder_origins_direct_credit ftsodc ON ftsodc.stakeholder_id = s.id
         JOIN simple_flows sf ON sf.sf_id = ftsodc.flow_id
-        JOIN ccs_to_flows ccstf ON ccstf.cc_flow_id = sf.sf_id
+        JOIN ccs_to_flows ccstf ON ccstf.flow_id = sf.sf_id
         JOIN core_capacities c ON c.id = ccstf.cc_id
     WHERE
         sf.flow_type = 'disbursed_funds' :: flow_types
+        AND sf.response_or_capacity = 'capacity'
         AND (
             s.id IN (
                 SELECT
@@ -53,7 +54,7 @@ SELECT
     round(
         (
             results."Total disbursed (nominal USD)" / sum(results."Total disbursed (nominal USD)") over (
-                ORDER BY
+                PARTITION BY
                     results."Core capacity"
             )
         ) :: numeric * 100.0,
