@@ -25,7 +25,7 @@ join flows_to_stakeholder_origins_direct_credit ftsodc on
 join simple_flows sf on
 	sf.sf_id = ftsodc.flow_id
 join ccs_to_flows ccstf on
-	ccstf.cc_flow_id = sf.sf_id
+	ccstf.flow_id = sf.sf_id
 join core_capacities c on
 	c.id = ccstf.cc_id
 where
