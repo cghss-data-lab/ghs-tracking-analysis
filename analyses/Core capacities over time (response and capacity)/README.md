@@ -7,7 +7,7 @@ A SQL query joins stakeholders to flows that they funded and aggregates by WHO r
 
 ## List of filters
 List the filter criteria used in the SQL query below.
-Flow type `disbursed funds`
+- Flow type `disbursed funds`
 
 
 ## Terminal command to run analysis
