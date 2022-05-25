@@ -1,4 +1,4 @@
-# Core capacities over time (response and capacity)
+# Core capacities over time (capacity funding)
 This analysis generates a table showing the value and percentage of capacaties funded each year and over time as a cumulative value. It includes only capacity funding.
 
 ## Methodology narrative
