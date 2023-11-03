@@ -1,0 +1,1343 @@
+"ce","core capacity","funder","funder category","value"
+Detect,National Laboratory System,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,6322136108
+Detect,National Laboratory System,United States of America,country,4613112443
+Detect,National Laboratory System,United States Agency for International Development (USAID),agency,2123223598
+Detect,National Laboratory System,Bill & Melinda Gates Foundation,foundation,483237163
+Detect,National Laboratory System,World Health Organization (WHO),international_organization,425110903
+Detect,National Laboratory System,United Kingdom,country,353863441
+Detect,National Laboratory System,Unitaid,sub-organization,335743942
+Detect,National Laboratory System,United Nations (UN),international_organization,282031156
+Detect,National Laboratory System,Asian Development Bank,international_organization,235018488
+Detect,National Laboratory System,UK - Department of Health and Social Care (DHSC),agency,184098794
+Detect,National Laboratory System,Canada,country,159305554
+Detect,National Laboratory System,Inter-American Development Bank,international_organization,150000000
+Detect,National Laboratory System,World Bank,international_organization,145040622
+Detect,National Laboratory System,International Development Association,sub-organization,143760225
+Detect,National Laboratory System,Germany,country,129777986
+Detect,National Laboratory System,United Nations Food and Agriculture Organization (FAO),sub-organization,117505448
+Detect,National Laboratory System,International Labour Organization (ILO),international_organization,102697718
+Detect,National Laboratory System,United Nations Joint Programme on HIV and AIDS (UNAIDS),sub-organization,90806270
+Detect,National Laboratory System,Australia,country,71374190
+Detect,National Laboratory System,InvestInternational,private_sector,61159399
+Detect,National Laboratory System,European Union,region,56086634
+Detect,National Laboratory System,African Development Bank,international_organization,54952763
+Detect,National Laboratory System,Mott MacDonald Limited,private_sector,38319180
+Detect,National Laboratory System,United Nations Children's Fund (UNICEF),sub-organization,36419716
+Detect,National Laboratory System,King Salman Humanitarian Aid and Relief Centre,foundation,35994441
+Detect,National Laboratory System,European Commission - International Partnerships,other_public_sector,33896915
+Detect,National Laboratory System,Netherlands Enterprise Agency (RVO),agency,25344539
+Detect,National Laboratory System,Sweden,country,24388290
+Detect,National Laboratory System,The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA),sub-organization,24226554
+Detect,National Laboratory System,Italy,country,20795511
+Detect,National Laboratory System,AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,19495314
+Detect,National Laboratory System,France,country,19001675
+Detect,National Laboratory System,Netherlands,country,17912792
+Detect,National Laboratory System,Belgium,country,16985444
+Detect,National Laboratory System,Liverpool School of Tropical Medicine,academia,13978696
+Detect,National Laboratory System,United Nations Office for Project Services (UNOPS),sub-organization,13073168
+Detect,National Laboratory System,Japan,country,12155277
+Detect,National Laboratory System,Malaria Consortium,ngo,11923143
+Detect,National Laboratory System,Institute of Tropical Medicine,academia,10841890
+Detect,National Laboratory System,Finland,country,8410019.0
+Detect,National Laboratory System,Access to Medicine Foundation,foundation,6635132.0
+Detect,National Laboratory System,Spain,country,6171022.0
+Detect,National Laboratory System,China,country,6000000.0
+Detect,National Laboratory System,New Zealand,country,5736806.0
+Detect,National Laboratory System,Switzerland,country,5588455.0
+Detect,National Laboratory System,Republic of Korea,country,4577838.0
+Detect,National Laboratory System,International Procurement Agency,private_sector,4363620.0
+Detect,National Laboratory System,Clinton Health Access Initiative,ngo,4275918.0
+Detect,National Laboratory System,The Leprosy Mission,ngo,2958385.0
+Detect,National Laboratory System,Germany - Federal Foreign Office,agency,2936420.0
+Detect,National Laboratory System,The Leprosy Mission England and Wales,sub-organization,1954630.0
+Detect,National Laboratory System,Spanish Agency for International Development Cooperation (AECID),agency,1939426.0
+Detect,National Laboratory System,Aidsfonds - Soa Aids Nederland,international_organization,1823999.0
+Detect,National Laboratory System,Damiaanactie / Action Damien,ngo,1554813.0
+Detect,National Laboratory System,Options Consultancy Services,private_sector,1495562.0
+Detect,National Laboratory System,Lepra,ngo,1355137.0
+Detect,National Laboratory System,Save the Children,ngo,1284180.0
+Detect,National Laboratory System,World Bank Trust Funds,multilateral,1280397.0
+Detect,National Laboratory System,AFEW International,ngo,1231880.0
+Detect,National Laboratory System,Handicap International Belgique,sub-organization,1135325.0
+Detect,National Laboratory System,Handicap International,ngo,1135325.0
+Detect,National Laboratory System,The Leprosy Mission Nepal,ngo,1003755.0
+Detect,National Laboratory System,Charity Projects Ltd (Comic Relief),ngo,714864.0
+Detect,National Laboratory System,Hivos,international_organization,673420.0
+Detect,National Laboratory System,Norad - Norwegian Agency for Development Cooperation,agency,627362.0
+Detect,National Laboratory System,Norway,country,627362.0
+Detect,National Laboratory System,Action Against Hunger,ngo,619047.0
+Detect,National Laboratory System,Action Against Hunger UK,sub-organization,619047.0
+Detect,National Laboratory System,HelpAge International,international_organization,568893.0
+Detect,National Laboratory System,Amref Health Africa - UK,sub-organization,546911.0
+Detect,National Laboratory System,Amref Health Africa,ngo,546911.0
+Detect,National Laboratory System,Food for the Hungry UK,sub-organization,431921.0
+Detect,National Laboratory System,Food for the Hungry,ngo,431921.0
+Detect,National Laboratory System,The Open University,academia,430491.0
+Detect,National Laboratory System,TB Alert,ngo,425472.0
+Detect,National Laboratory System,Sightsavers,ngo,260441.0
+Detect,National Laboratory System,Slovakia,country,236775.0
+Detect,National Laboratory System,Ministry of Foreign and European Affairs of the Slovak Republic,agency,236775.0
+Detect,National Laboratory System,Oxfam Novib,sub-organization,167682.0
+Detect,National Laboratory System,Oxfam International,ngo,167682.0
+Detect,National Laboratory System,Tropical Health and Education Trust,international_organization,138309.0
+Detect,National Laboratory System,GoodWeave International,ngo,135923.0
+Detect,National Laboratory System,ICCO Cooperation,international_organization,126287.0
+Detect,National Laboratory System,Catholic Agency For Overseas Development (CAFOD),ngo,125960.0
+Detect,National Laboratory System,"Denmark - Ministry of Foreign Affairs, Danida",agency,125460.0
+Detect,National Laboratory System,Denmark,country,125460.0
+Detect,National Laboratory System,Ethiopiaid,ngo,93429.0
+Detect,National Laboratory System,Ethiopiaid UK,sub-organization,93429.0
+Detect,National Laboratory System,Amref Health Africa Headquarters,international_organization,92898.0
+Detect,National Laboratory System,Ireland,country,38253.0
+Detect,National Laboratory System,International Treatment Preparedness Coalition (ITPC),ngo,31092.0
+Detect,National Laboratory System,Plan International,ngo,11092.0
+Detect,National Laboratory System,Plan International Nederland,sub-organization,11092.0
+Detect,National Laboratory System,Diakonia Sweden,ngo,0.0
+Detect,Real Time Surveillance,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,10040987149
+Detect,Real Time Surveillance,United States of America,country,3568903094
+Detect,Real Time Surveillance,United States Agency for International Development (USAID),agency,2870514202
+Detect,Real Time Surveillance,Bill & Melinda Gates Foundation,foundation,968526190
+Detect,Real Time Surveillance,World Bank,international_organization,638255493
+Detect,Real Time Surveillance,International Development Association,sub-organization,620097879
+Detect,Real Time Surveillance,World Health Organization (WHO),international_organization,337470722
+Detect,Real Time Surveillance,United Nations (UN),international_organization,325057311
+Detect,Real Time Surveillance,Australia,country,263134731
+Detect,Real Time Surveillance,Canada,country,232569869
+Detect,Real Time Surveillance,United Nations Food and Agriculture Organization (FAO),sub-organization,203098285
+Detect,Real Time Surveillance,United Kingdom,country,181880588
+Detect,Real Time Surveillance,Unitaid,sub-organization,165090086
+Detect,Real Time Surveillance,UK - Department of Health and Social Care (DHSC),agency,158553841
+Detect,Real Time Surveillance,Inter-American Development Bank,international_organization,150000000
+Detect,Real Time Surveillance,Germany,country,95242668
+Detect,Real Time Surveillance,Asian Development Bank,international_organization,87510837
+Detect,Real Time Surveillance,United Nations Children's Fund (UNICEF),sub-organization,64693136
+Detect,Real Time Surveillance,European Union,region,61504813
+Detect,Real Time Surveillance,Sweden,country,53389421
+Detect,Real Time Surveillance,United Nations Joint Programme on HIV and AIDS (UNAIDS),sub-organization,52360727
+Detect,Real Time Surveillance,IMA World Health,international_organization,47229173
+Detect,Real Time Surveillance,European Commission - International Partnerships,other_public_sector,42009957
+Detect,Real Time Surveillance,Mott MacDonald Limited,private_sector,38319180
+Detect,Real Time Surveillance,France,country,28930086
+Detect,Real Time Surveillance,Malaria Consortium,ngo,20606829
+Detect,Real Time Surveillance,DAI Europe,sub-organization,16457254
+Detect,Real Time Surveillance,New Zealand,country,13597891
+Detect,Real Time Surveillance,African Development Bank,international_organization,12343818
+Detect,Real Time Surveillance,Republic of Korea,country,11712190
+Detect,Real Time Surveillance,International Rescue Committee,ngo,11422387
+Detect,Real Time Surveillance,Italy,country,11018644
+Detect,Real Time Surveillance,Norad - Norwegian Agency for Development Cooperation,agency,11009474
+Detect,Real Time Surveillance,Norway,country,11009474
+Detect,Real Time Surveillance,AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,10667543
+Detect,Real Time Surveillance,Sightsavers,ngo,10177429
+Detect,Real Time Surveillance,King Salman Humanitarian Aid and Relief Centre,foundation,9325813.0
+Detect,Real Time Surveillance,Institute of Tropical Medicine,academia,6419243.0
+Detect,Real Time Surveillance,Finland,country,6254243.0
+Detect,Real Time Surveillance,InvestInternational,private_sector,6253454.0
+Detect,Real Time Surveillance,World Bank Trust Funds,multilateral,6107614.0
+Detect,Real Time Surveillance,International Rescue Committee UK,sub-organization,5895201.0
+Detect,Real Time Surveillance,Concern Worldwide,international_organization,5843774.0
+Detect,Real Time Surveillance,The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA),sub-organization,4905164.0
+Detect,Real Time Surveillance,Damiaanactie / Action Damien,ngo,4599073.0
+Detect,Real Time Surveillance,Netherlands,country,3695486.0
+Detect,Real Time Surveillance,Save the Children,ngo,3026605.0
+Detect,Real Time Surveillance,Concern Worldwide UK,sub-organization,2811283.0
+Detect,Real Time Surveillance,Options Consultancy Services,private_sector,2445627.0
+Detect,Real Time Surveillance,Netherlands Enterprise Agency (RVO),agency,2163360.0
+Detect,Real Time Surveillance,Spain,country,2117940.0
+Detect,Real Time Surveillance,Action Against Hunger UK,sub-organization,1884036.0
+Detect,Real Time Surveillance,Action Against Hunger,ngo,1884036.0
+Detect,Real Time Surveillance,Sense International,ngo,1882223.0
+Detect,Real Time Surveillance,Japan,country,1812180.0
+Detect,Real Time Surveillance,Light For The World,ngo,1774301.0
+Detect,Real Time Surveillance,Light For The World Belgium,sub-organization,1774301.0
+Detect,Real Time Surveillance,Amref Health Africa - UK,sub-organization,1693409.0
+Detect,Real Time Surveillance,Amref Health Africa,ngo,1693409.0
+Detect,Real Time Surveillance,Lepra,ngo,1512398.0
+Detect,Real Time Surveillance,Plan International,ngo,1416808.0
+Detect,Real Time Surveillance,World Vision UK,sub-organization,1150862.0
+Detect,Real Time Surveillance,World Vision International,international_organization,1150862.0
+Detect,Real Time Surveillance,Orbis Charitable Trust,ngo,1088640.0
+Detect,Real Time Surveillance,Aidsfonds - Soa Aids Nederland,international_organization,944804.0
+Detect,Real Time Surveillance,Southern African Catholic Bishops' Conference Aids Office,ngo,925722.0
+Detect,Real Time Surveillance,Plan International Nederland,sub-organization,743526.0
+Detect,Real Time Surveillance,Handicap International,ngo,678535.0
+Detect,Real Time Surveillance,Plan International UK,sub-organization,673281.0
+Detect,Real Time Surveillance,Slovakia,country,635597.0
+Detect,Real Time Surveillance,Ministry of Foreign and European Affairs of the Slovak Republic,agency,635597.0
+Detect,Real Time Surveillance,Spanish Agency for International Development Cooperation (AECID),agency,493459.0
+Detect,Real Time Surveillance,Oxfam International,ngo,480251.0
+Detect,Real Time Surveillance,Oxfam Novib,sub-organization,480251.0
+Detect,Real Time Surveillance,Charity Projects Ltd (Comic Relief),ngo,449691.0
+Detect,Real Time Surveillance,Switzerland,country,444668.0
+Detect,Real Time Surveillance,The Open University,academia,430491.0
+Detect,Real Time Surveillance,HelpAge International,international_organization,420449.0
+Detect,Real Time Surveillance,Handicap International Belgique,sub-organization,420437.0
+Detect,Real Time Surveillance,Germany - Federal Foreign Office,agency,393226.0
+Detect,Real Time Surveillance,International Medical Corps UK,international_organization,363664.0
+Detect,Real Time Surveillance,TB Alert,ngo,357044.0
+Detect,Real Time Surveillance,Cordaid,ngo,309219.0
+Detect,Real Time Surveillance,DeafKidz International,international_organization,276753.0
+Detect,Real Time Surveillance,Handicap International UK,sub-organization,258098.0
+Detect,Real Time Surveillance,"UK - Department for Environment, Food and Rural Affairs",agency,221374.0
+Detect,Real Time Surveillance,"Denmark - Ministry of Foreign Affairs, Danida",agency,177921.0
+Detect,Real Time Surveillance,Denmark,country,177921.0
+Detect,Real Time Surveillance,Tropical Health and Education Trust,international_organization,117228.0
+Detect,Real Time Surveillance,International Labour Organization (ILO),international_organization,101831.0
+Detect,Real Time Surveillance,Catholic Agency For Overseas Development (CAFOD),ngo,67703.0
+Detect,Real Time Surveillance,Millennium Challenge Corporation,agency,2092.0
+Detect,Reporting,United Kingdom,country,9140509362
+Detect,Reporting,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,5618703085
+Detect,Reporting,United States of America,country,1917301666
+Detect,Reporting,United States Agency for International Development (USAID),agency,763596933
+Detect,Reporting,Canada,country,324105931
+Detect,Reporting,United Nations (UN),international_organization,197376403
+Detect,Reporting,Bill & Melinda Gates Foundation,foundation,181207448
+Detect,Reporting,United Nations Children's Fund (UNICEF),sub-organization,131202927
+Detect,Reporting,Sweden,country,98952504
+Detect,Reporting,Australia,country,91154765
+Detect,Reporting,UK - Department of Health and Social Care (DHSC),agency,76097114
+Detect,Reporting,United Nations Joint Programme on HIV and AIDS (UNAIDS),sub-organization,52360727
+Detect,Reporting,Development Initiatives Poverty Research,international_organization,44090628
+Detect,Reporting,Netherlands,country,37829249
+Detect,Reporting,Asian Development Bank,international_organization,32731538
+Detect,Reporting,World Health Organization (WHO),international_organization,29548312
+Detect,Reporting,European Union,region,27187830
+Detect,Reporting,European Commission - International Partnerships,other_public_sector,26710009
+Detect,Reporting,Germany,country,16268508
+Detect,Reporting,Population Services International,ngo,14705376
+Detect,Reporting,Unitaid,sub-organization,14028493
+Detect,Reporting,France,country,13980345
+Detect,Reporting,United Nations Food and Agriculture Organization (FAO),sub-organization,13812749
+Detect,Reporting,Amref Health Africa,ngo,13335087
+Detect,Reporting,International Labour Organization (ILO),international_organization,12549533
+Detect,Reporting,Finland,country,12402990
+Detect,Reporting,Amref Flying Doctors,sub-organization,12402686
+Detect,Reporting,Simavi,international_organization,9656345.0
+Detect,Reporting,Frontline AIDS,international_organization,8530664.0
+Detect,Reporting,"Denmark - Ministry of Foreign Affairs, Danida",agency,8308686.0
+Detect,Reporting,Denmark,country,8308686.0
+Detect,Reporting,Options Consultancy Services,private_sector,6221402.0
+Detect,Reporting,Spain,country,5307558.0
+Detect,Reporting,Spanish Agency for International Development Cooperation (AECID),agency,5198529.0
+Detect,Reporting,Republic of Korea,country,5020661.0
+Detect,Reporting,Mainline,ngo,4986452.0
+Detect,Reporting,Norway,country,4972295.0
+Detect,Reporting,Norad - Norwegian Agency for Development Cooperation,agency,4972295.0
+Detect,Reporting,Cordaid,ngo,4948656.0
+Detect,Reporting,International Rescue Committee,ngo,3732090.0
+Detect,Reporting,The Global Forum on MSM & HIV (MSMGF),international_organization,3589183.0
+Detect,Reporting,Netherlands Enterprise Agency (RVO),agency,3074622.0
+Detect,Reporting,Italy,country,2879531.0
+Detect,Reporting,Plan International,ngo,2815662.0
+Detect,Reporting,Liverpool School of Tropical Medicine,academia,2706047.0
+Detect,Reporting,Oxfam Novib,sub-organization,2274843.0
+Detect,Reporting,Oxfam International,ngo,2274843.0
+Detect,Reporting,AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,1488599.0
+Detect,Reporting,Plan International Nederland,sub-organization,1411179.0
+Detect,Reporting,Plan International UK,sub-organization,1404482.0
+Detect,Reporting,International Rescue Committee UK,sub-organization,1352062.0
+Detect,Reporting,Switzerland,country,1285958.0
+Detect,Reporting,Amref Health Africa in Ethiopia,sub-organization,932400.0
+Detect,Reporting,ActionAid International,international_organization,839637.0
+Detect,Reporting,ActionAid Rwanda,sub-organization,839637.0
+Detect,Reporting,InvestInternational,private_sector,831870.0
+Detect,Reporting,Louvain Coopération,ngo,738600.0
+Detect,Reporting,CHOICE for Youth and Sexuality,ngo,716953.0
+Detect,Reporting,HelpAge International,international_organization,530563.0
+Detect,Reporting,Y Care International,ngo,508688.0
+Detect,Reporting,YWCA of Bangladesh,ngo,467059.0
+Detect,Reporting,New Zealand,country,447456.0
+Detect,Reporting,Sightsavers,ngo,413849.0
+Detect,Reporting,International Medical Corps UK,international_organization,363664.0
+Detect,Reporting,Health Poverty Action,ngo,270281.0
+Detect,Reporting,Aidsfonds - Soa Aids Nederland,international_organization,257984.0
+Detect,Reporting,Slovakia,country,211646.0
+Detect,Reporting,Ministry of Foreign and European Affairs of the Slovak Republic,agency,211646.0
+Detect,Reporting,Coffey International Development,private_sector,203918.0
+Detect,Reporting,Catholic Agency For Overseas Development (CAFOD),ngo,174768.0
+Detect,Reporting,Charity Projects Ltd (Comic Relief),ngo,147807.0
+Detect,Reporting,World Jewish Relief,international_organization,117725.0
+Detect,Reporting,Ireland,country,116252.0
+Detect,Reporting,Sexual Reproductive Health and Rights Africa Trust,ngo,105520.0
+Detect,Reporting,Malaria Consortium,ngo,78274.0
+Detect,Reporting,Reach A Hand Uganda,ngo,54490.0
+Detect,Reporting,International Treatment Preparedness Coalition (ITPC),ngo,53847.0
+Detect,Reporting,ABAAD - Resource Center for Gender Equality,ngo,27081.0
+Detect,Reporting,Diakonia Sweden,ngo,0.0
+Detect,Workforce Development,United States of America,country,9789801770
+Detect,Workforce Development,United States Agency for International Development (USAID),agency,6213494919
+Detect,Workforce Development,United Kingdom,country,1948507588
+Detect,Workforce Development,Canada,country,1666532150
+Detect,Workforce Development,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,940807558
+Detect,Workforce Development,Germany,country,398298264
+Detect,Workforce Development,United Nations (UN),international_organization,352193921
+Detect,Workforce Development,Australia,country,339507350
+Detect,Workforce Development,Bill & Melinda Gates Foundation,foundation,336650107
+Detect,Workforce Development,Global Alliance for Vaccines and Immunisation (GAVI),international_organization,315787260
+Detect,Workforce Development,World Bank,international_organization,314819904
+Detect,Workforce Development,United Nations Children's Fund (UNICEF),sub-organization,274382527
+Detect,Workforce Development,Sweden,country,212442086
+Detect,Workforce Development,International Development Association,sub-organization,199638056
+Detect,Workforce Development,Plan International,ngo,138584959
+Detect,Workforce Development,Plan International USA,sub-organization,136814838
+Detect,Workforce Development,European Union,region,122618633
+Detect,Workforce Development,World Bank Trust Funds,multilateral,103131848
+Detect,Workforce Development,Finland,country,98773216
+Detect,Workforce Development,Republic of Korea,country,86870658
+Detect,Workforce Development,European Commission - International Partnerships,other_public_sector,70446701
+Detect,Workforce Development,International Labour Organization (ILO),international_organization,66014623
+Detect,Workforce Development,France,country,63692915
+Detect,Workforce Development,Norway,country,60528576
+Detect,Workforce Development,Norad - Norwegian Agency for Development Cooperation,agency,60528576
+Detect,Workforce Development,United Nations Food and Agriculture Organization (FAO),sub-organization,59841040
+Detect,Workforce Development,Italy,country,43379931
+Detect,Workforce Development,AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,39634327
+Detect,Workforce Development,Netherlands,country,38000241
+Detect,Workforce Development,UK - Department of Health and Social Care (DHSC),agency,37327047
+Detect,Workforce Development,Action Against Hunger,ngo,34955209
+Detect,Workforce Development,Action Against Hunger UK,sub-organization,34955209
+Detect,Workforce Development,Spain,country,34173533
+Detect,Workforce Development,Asian Development Bank,international_organization,34167797
+Detect,Workforce Development,Japan,country,29616301
+Detect,Workforce Development,Millennium Challenge Corporation,agency,29316125
+Detect,Workforce Development,Institute of Tropical Medicine,academia,28822181
+Detect,Workforce Development,Netherlands Enterprise Agency (RVO),agency,28572719
+Detect,Workforce Development,Save the Children,ngo,26115815
+Detect,Workforce Development,InvestInternational,private_sector,25319516
+Detect,Workforce Development,The Power of Nutrition,ngo,25014583
+Detect,Workforce Development,Switzerland,country,21972645
+Detect,Workforce Development,African Development Bank,international_organization,21074326
+Detect,Workforce Development,World Health Organization (WHO),international_organization,20396394
+Detect,Workforce Development,"Denmark - Ministry of Foreign Affairs, Danida",agency,18888616
+Detect,Workforce Development,Denmark,country,18888616
+Detect,Workforce Development,New Zealand,country,18519731
+Detect,Workforce Development,Sightsavers,ngo,15609462
+Detect,Workforce Development,United Nations World Food Programme (WFP),sub-organization,12885935
+Detect,Workforce Development,International Rescue Committee,ngo,10009908
+Detect,Workforce Development,Charity Projects Ltd (Comic Relief),ngo,9252597.0
+Detect,Workforce Development,International Rescue Committee UK,sub-organization,8486786.0
+Detect,Workforce Development,China,country,8000000.0
+Detect,Workforce Development,Cordaid,ngo,7888526.0
+Detect,Workforce Development,Belgium,country,7151034.0
+Detect,Workforce Development,Light For The World Belgium,sub-organization,6338823.0
+Detect,Workforce Development,Light For The World,ngo,6338823.0
+Detect,Workforce Development,Unitaid,sub-organization,6057691.0
+Detect,Workforce Development,Inter-American Development Bank,international_organization,6023084.0
+Detect,Workforce Development,Syria Relief,ngo,5578734.0
+Detect,Workforce Development,United Nations Office for Project Services (UNOPS),sub-organization,4992831.0
+Detect,Workforce Development,Malaria Consortium,ngo,4987070.0
+Detect,Workforce Development,Damiaanactie / Action Damien,ngo,4599073.0
+Detect,Workforce Development,Rode Kruis-Vlaanderen Internationaal,ngo,4580512.0
+Detect,Workforce Development,King Salman Humanitarian Aid and Relief Centre,foundation,4502649.0
+Detect,Workforce Development,Oxfam International,ngo,4333766.0
+Detect,Workforce Development,Oxfam Novib,sub-organization,4333766.0
+Detect,Workforce Development,Spanish Agency for International Development Cooperation (AECID),agency,4201478.0
+Detect,Workforce Development,Vlaamse Interuniversitaire Raad voor Universitaire Ontwikkelingssamenwerking (VLIR-UOS),academia,4000276.0
+Detect,Workforce Development,Amref Health Africa,ngo,3968395.0
+Detect,Workforce Development,International Development Law Organization (IDLO),international_organization,3732156.0
+Detect,Workforce Development,The Global Forum on MSM & HIV (MSMGF),international_organization,3589183.0
+Detect,Workforce Development,Aidsfonds - Soa Aids Nederland,international_organization,2738109.0
+Detect,Workforce Development,Germany - Federal Foreign Office,agency,2582771.0
+Detect,Workforce Development,Slovakia,country,2498631.0
+Detect,Workforce Development,Ministry of Foreign and European Affairs of the Slovak Republic,agency,2498631.0
+Detect,Workforce Development,Ethiopiaid,ngo,2448686.0
+Detect,Workforce Development,Handicap International Belgique,sub-organization,2291336.0
+Detect,Workforce Development,Handicap International,ngo,2291336.0
+Detect,Workforce Development,Ethiopiaid UK,sub-organization,2246506.0
+Detect,Workforce Development,Amref Flying Doctors,sub-organization,2103533.0
+Detect,Workforce Development,University Of Liverpool,academia,1920283.0
+Detect,Workforce Development,Amref Health Africa - UK,sub-organization,1864862.0
+Detect,Workforce Development,Frontline AIDS,international_organization,1814219.0
+Detect,Workforce Development,Yamaan Foundation for Health and Social Development,ngo,1636800.0
+Detect,Workforce Development,EMMS International,ngo,1561906.0
+Detect,Workforce Development,HelpAge International,international_organization,1529115.0
+Detect,Workforce Development,Liverpool School of Tropical Medicine,academia,1516512.0
+Detect,Workforce Development,Options Consultancy Services,private_sector,1495562.0
+Detect,Workforce Development,Samaritan's Purse UK,international_organization,1475390.0
+Detect,Workforce Development,BRAC,ngo,1299446.0
+Detect,Workforce Development,BRAC International,sub-organization,1299446.0
+Detect,Workforce Development,ADRA-UK,international_organization,1264740.0
+Detect,Workforce Development,Karuna Mission Social Solidarity - KMSS,ngo,1222473.0
+Detect,Workforce Development,World Vision UK,sub-organization,1150862.0
+Detect,Workforce Development,World Vision International,international_organization,1150862.0
+Detect,Workforce Development,Memisa,ngo,1035118.0
+Detect,Workforce Development,Plan International Nederland,sub-organization,958463.0
+Detect,Workforce Development,Mainline,ngo,947996.0
+Detect,Workforce Development,Catholic Agency For Overseas Development (CAFOD),ngo,933375.0
+Detect,Workforce Development,Tropical Health and Education Trust,international_organization,834718.0
+Detect,Workforce Development,Young Africa International HUB,international_organization,782103.0
+Detect,Workforce Development,Nuffic,academia,777156.0
+Detect,Workforce Development,Mercy Ships UK Limited,international_organization,738959.0
+Detect,Workforce Development,CARE International,ngo,719460.0
+Detect,Workforce Development,Medicos del Mundo,international_organization,682005.0
+Detect,Workforce Development,The Fred Hollows Foundation (UK),international_organization,646139.0
+Detect,Workforce Development,CARE International UK,sub-organization,619043.0
+Detect,Workforce Development,University of Birmingham,academia,614035.0
+Detect,Workforce Development,Ireland,country,565441.0
+Detect,Workforce Development,Plan International UK,sub-organization,521908.0
+Detect,Workforce Development,Welbodi Partnership,ngo,521151.0
+Detect,Workforce Development,PHASE Worldwide,ngo,480046.0
+Detect,Workforce Development,Afrikagrupperna Sweden,international_organization,398705.0
+Detect,Workforce Development,Digital Campus,academia,384076.0
+Detect,Workforce Development,interburns,ngo,365650.0
+Detect,Workforce Development,International Medical Corps UK,international_organization,363664.0
+Detect,Workforce Development,Abaseen Foundation UK,foundation,358989.0
+Detect,Workforce Development,TB Alert,ngo,357044.0
+Detect,Workforce Development,International Treatment Preparedness Coalition (ITPC),ngo,313150.0
+Detect,Workforce Development,Child.org,international_organization,302376.0
+Detect,Workforce Development,Health Poverty Action,ngo,302138.0
+Detect,Workforce Development,Cyan International,ngo,295573.0
+Detect,Workforce Development,Plan International Belgium,sub-organization,289749.0
+Detect,Workforce Development,Palliative Care Support Trust,ngo,285023.0
+Detect,Workforce Development,"UK - Department for Environment, Food and Rural Affairs",agency,221374.0
+Detect,Workforce Development,African Initiatives,international_organization,212150.0
+Detect,Workforce Development,Danmission,ngo,208795.0
+Detect,Workforce Development,Ethiopiaid Ireland,sub-organization,202179.0
+Detect,Workforce Development,CODA International,international_organization,165724.0
+Detect,Workforce Development,Hospice Africa Ltd,ngo,140027.0
+Detect,Workforce Development,act4africa,ngo,139587.0
+Detect,Workforce Development,Max Foundation,foundation,120106.0
+Detect,Workforce Development,CARE Danmark Fonden for Frivillig Ulandsbistand,sub-organization,100417.0
+Detect,Workforce Development,The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA),sub-organization,91588.0
+Detect,Workforce Development,World Jewish Relief,international_organization,88646.0
+Detect,Workforce Development,Save the Children Netherlands,sub-organization,75353.0
+Detect,Workforce Development,AfriKids,ngo,35778.0
+Detect,Workforce Development,Carers Worldwide,ngo,27084.0
+Detect,Workforce Development,Global Network of People Living with HIV (GNP+),international_organization,10843.0
+Detect,Workforce Development,Diakonia Sweden,ngo,0.0
+General IHR,General IHR Implementation,Germany,country,1071491935
+General IHR,General IHR Implementation,Canada,country,4027507.0
+General IHR,General IHR Implementation,United Kingdom,country,69530.0
+General IHR,General IHR Implementation,France,country,63270.0
+General IHR,General IHR Implementation,Russian Federation,country,50000.0
+General IHR,General IHR Implementation,China,country,39350.0
+General IHR,General IHR Implementation,Sweden,country,16299.0
+General IHR,General IHR Implementation,Ireland,country,11000.0
+Other,Chemical Events,Canada,country,17965947
+Other,Chemical Events,United States of America,country,16800000
+Other,Chemical Events,European Union,region,14358776
+Other,Chemical Events,Germany,country,1869999.0
+Other,Chemical Events,France,country,1000000.0
+Other,Chemical Events,Italy,country,465942.0
+Other,Point of Entry (PoE),United States of America,country,496089435
+Other,Point of Entry (PoE),United States Agency for International Development (USAID),agency,332739658
+Other,Point of Entry (PoE),"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,325659905
+Other,Point of Entry (PoE),World Bank,international_organization,168763766
+Other,Point of Entry (PoE),International Development Association,sub-organization,163763766
+Other,Point of Entry (PoE),United Kingdom,country,107452504
+Other,Point of Entry (PoE),United Nations (UN),international_organization,107391321
+Other,Point of Entry (PoE),United Nations Children's Fund (UNICEF),sub-organization,102919813
+Other,Point of Entry (PoE),Bill & Melinda Gates Foundation,foundation,75167519
+Other,Point of Entry (PoE),Canada,country,63321103
+Other,Point of Entry (PoE),CARE BENIN/TOGO,sub-organization,60254376
+Other,Point of Entry (PoE),CARE International,ngo,60254376
+Other,Point of Entry (PoE),Sweden,country,45275855
+Other,Point of Entry (PoE),Germany,country,44251723
+Other,Point of Entry (PoE),Inter-American Development Bank,international_organization,43928441
+Other,Point of Entry (PoE),Netherlands,country,19335290
+Other,Point of Entry (PoE),Italy,country,18473656
+Other,Point of Entry (PoE),AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,18473656
+Other,Point of Entry (PoE),European Union,region,17129373
+Other,Point of Entry (PoE),DAI Europe,sub-organization,16457254
+Other,Point of Entry (PoE),International Labour Organization (ILO),international_organization,12426781
+Other,Point of Entry (PoE),Asian Development Bank,international_organization,12392374
+Other,Point of Entry (PoE),Australia,country,7874636.0
+Other,Point of Entry (PoE),France,country,6664719.0
+Other,Point of Entry (PoE),European Commission - International Partnerships,other_public_sector,5146549.0
+Other,Point of Entry (PoE),World Bank Trust Funds,multilateral,5000000.0
+Other,Point of Entry (PoE),United Nations Food and Agriculture Organization (FAO),sub-organization,4471507.0
+Other,Point of Entry (PoE),UK - Department of Health and Social Care (DHSC),agency,3441085.0
+Other,Point of Entry (PoE),Vlaamse Interuniversitaire Raad voor Universitaire Ontwikkelingssamenwerking (VLIR-UOS),academia,2726593.0
+Other,Point of Entry (PoE),The Global Forum on MSM & HIV (MSMGF),international_organization,1975974.0
+Other,Point of Entry (PoE),Cordaid,ngo,1935941.0
+Other,Point of Entry (PoE),Malaria Consortium,ngo,1638672.0
+Other,Point of Entry (PoE),African Development Bank,international_organization,1547943.0
+Other,Point of Entry (PoE),Institute of Tropical Medicine,academia,1450099.0
+Other,Point of Entry (PoE),Switzerland,country,1265956.0
+Other,Point of Entry (PoE),Croix-Rouge de Belgique Communauté francophone - Activités internationales ASBL,sub-organization,948055.0
+Other,Point of Entry (PoE),International Red Cross and Red Crescent Movement,international_organization,948055.0
+Other,Point of Entry (PoE),International Rescue Committee UK,sub-organization,861372.0
+Other,Point of Entry (PoE),International Rescue Committee,ngo,861372.0
+Other,Point of Entry (PoE),New Zealand,country,776923.0
+Other,Point of Entry (PoE),TradeMark East Africa,ngo,645796.0
+Other,Point of Entry (PoE),The Access to Nutrition Foundation,foundation,601858.0
+Other,Point of Entry (PoE),Republic of Korea,country,600293.0
+Other,Point of Entry (PoE),Charity Projects Ltd (Comic Relief),ngo,558060.0
+Other,Point of Entry (PoE),Unitaid,sub-organization,499361.0
+Other,Point of Entry (PoE),World Health Organization (WHO),international_organization,499361.0
+Other,Point of Entry (PoE),Handicap International,ngo,327650.0
+Other,Point of Entry (PoE),Handicap International UK,sub-organization,327650.0
+Other,Point of Entry (PoE),Spain,country,302998.0
+Other,Point of Entry (PoE),UK-Med,international_organization,301053.0
+Other,Point of Entry (PoE),Finland,country,242145.0
+Other,Point of Entry (PoE),Netherlands Enterprise Agency (RVO),agency,241789.0
+Other,Point of Entry (PoE),Catholic Agency For Overseas Development (CAFOD),ngo,211958.0
+Other,Point of Entry (PoE),CODA International,international_organization,165724.0
+Other,Point of Entry (PoE),King Salman Humanitarian Aid and Relief Centre,foundation,100000.0
+Other,Point of Entry (PoE),ICCO Cooperation,international_organization,39104.0
+Other,Point of Entry (PoE),Germany - Federal Foreign Office,agency,10633.0
+Other,Point of Entry (PoE),Ministry of Foreign and European Affairs of the Slovak Republic,agency,4992.0
+Other,Point of Entry (PoE),Slovakia,country,4992.0
+Other,Point of Entry (PoE),Sightsavers,ngo,3304.0
+Other,Point of Entry (PoE),Diakonia Sweden,ngo,0.0
+Other,Radiation Emergencies,Canada,country,20762558
+Other,Radiation Emergencies,World Health Organization (WHO),international_organization,14064245
+Other,Radiation Emergencies,European Union,region,11614437
+Other,Radiation Emergencies,Bill & Melinda Gates Foundation,foundation,4206585.0
+Other,Radiation Emergencies,Germany,country,1089032.0
+Other,Radiation Emergencies,Netherlands Enterprise Agency (RVO),agency,512155.0
+Other,Radiation Emergencies,United States of America,country,303843.0
+Other,Radiation Emergencies,Sweden,country,113430.0
+Other,Radiation Emergencies,Republic of Korea,country,55291.0
+Other,Radiation Emergencies,Australia,country,41583.0
+Other,Radiation Emergencies,Spain,country,22195.0
+Other,Radiation Emergencies,Ministry of Foreign and European Affairs of the Slovak Republic,agency,14180.0
+Other,Radiation Emergencies,Slovakia,country,14180.0
+Prevent,Antimicrobial Resistance (AMR),"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,2697050631
+Prevent,Antimicrobial Resistance (AMR),United States of America,country,710170282
+Prevent,Antimicrobial Resistance (AMR),United States Agency for International Development (USAID),agency,663530345
+Prevent,Antimicrobial Resistance (AMR),United Kingdom,country,316603325
+Prevent,Antimicrobial Resistance (AMR),UK - Department of Health and Social Care (DHSC),agency,253394594
+Prevent,Antimicrobial Resistance (AMR),World Health Organization (WHO),international_organization,163328633
+Prevent,Antimicrobial Resistance (AMR),Unitaid,sub-organization,130187910
+Prevent,Antimicrobial Resistance (AMR),Bill & Melinda Gates Foundation,foundation,70135375
+Prevent,Antimicrobial Resistance (AMR),Sweden,country,40197972
+Prevent,Antimicrobial Resistance (AMR),Mott MacDonald Limited,private_sector,38319180
+Prevent,Antimicrobial Resistance (AMR),United Nations (UN),international_organization,15405148
+Prevent,Antimicrobial Resistance (AMR),United Nations Food and Agriculture Organization (FAO),sub-organization,15405148
+Prevent,Antimicrobial Resistance (AMR),European Union,region,11307940
+Prevent,Antimicrobial Resistance (AMR),Canada,country,8907156.0
+Prevent,Antimicrobial Resistance (AMR),Denmark,country,7561113.0
+Prevent,Antimicrobial Resistance (AMR),"Denmark - Ministry of Foreign Affairs, Danida",agency,7561113.0
+Prevent,Antimicrobial Resistance (AMR),The University of Oxford,academia,7392286.0
+Prevent,Antimicrobial Resistance (AMR),Australia,country,7349788.0
+Prevent,Antimicrobial Resistance (AMR),Malaria Consortium,ngo,5668836.0
+Prevent,Antimicrobial Resistance (AMR),Switzerland,country,5565391.0
+Prevent,Antimicrobial Resistance (AMR),Damiaanactie / Action Damien,ngo,4599073.0
+Prevent,Antimicrobial Resistance (AMR),European Commission - International Partnerships,other_public_sector,4016610.0
+Prevent,Antimicrobial Resistance (AMR),Finland,country,2708048.0
+Prevent,Antimicrobial Resistance (AMR),Institute of Tropical Medicine,academia,2617340.0
+Prevent,Antimicrobial Resistance (AMR),Republic of Korea,country,1083406.0
+Prevent,Antimicrobial Resistance (AMR),Global Antibiotic Research and Development Partnership,public_private_partnership,855413.0
+Prevent,Antimicrobial Resistance (AMR),Netherlands,country,750432.0
+Prevent,Antimicrobial Resistance (AMR),Boston University,academia,670651.0
+Prevent,Antimicrobial Resistance (AMR),Italy,country,502083.0
+Prevent,Antimicrobial Resistance (AMR),The Open University,academia,430491.0
+Prevent,Antimicrobial Resistance (AMR),AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,269471.0
+Prevent,Antimicrobial Resistance (AMR),"UK - Department for Environment, Food and Rural Affairs",agency,221374.0
+Prevent,Antimicrobial Resistance (AMR),Netherlands Enterprise Agency (RVO),agency,218980.0
+Prevent,Biosafety and Biosecurity,United States of America,country,541807956
+Prevent,Biosafety and Biosecurity,United States Agency for International Development (USAID),agency,243256477
+Prevent,Biosafety and Biosecurity,Germany,country,83071125
+Prevent,Biosafety and Biosecurity,Canada,country,82672171
+Prevent,Biosafety and Biosecurity,United Nations (UN),international_organization,22436790
+Prevent,Biosafety and Biosecurity,United Nations Food and Agriculture Organization (FAO),sub-organization,22436790
+Prevent,Biosafety and Biosecurity,European Union,region,22344391
+Prevent,Biosafety and Biosecurity,Germany - Federal Foreign Office,agency,21623374
+Prevent,Biosafety and Biosecurity,Spain,country,7574898.0
+Prevent,Biosafety and Biosecurity,Denmark,country,6133334.0
+Prevent,Biosafety and Biosecurity,United Kingdom,country,4397294.0
+Prevent,Biosafety and Biosecurity,Finland,country,2782882.0
+Prevent,Biosafety and Biosecurity,Sweden,country,1717329.0
+Prevent,Biosafety and Biosecurity,World Health Organization (WHO),international_organization,1525511.0
+Prevent,Biosafety and Biosecurity,Sweden's International Development Cooperation Agency,agency,1275385.0
+Prevent,Biosafety and Biosecurity,Netherlands,country,1006765.0
+Prevent,Biosafety and Biosecurity,Japan,country,899250.0
+Prevent,Biosafety and Biosecurity,Italy,country,570066.0
+Prevent,Biosafety and Biosecurity,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,357826.0
+Prevent,Biosafety and Biosecurity,Netherlands Enterprise Agency (RVO),agency,281142.0
+Prevent,Biosafety and Biosecurity,Republic of Korea,country,178025.0
+Prevent,Biosafety and Biosecurity,AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,104124.0
+Prevent,Biosafety and Biosecurity,Nuffic,academia,35138.0
+Prevent,Biosafety and Biosecurity,Australia,country,7254.0
+Prevent,Food Safety,United States of America,country,1359479206
+Prevent,Food Safety,United Nations (UN),international_organization,286563158
+Prevent,Food Safety,United States Agency for International Development (USAID),agency,275840502
+Prevent,Food Safety,United Nations Food and Agriculture Organization (FAO),sub-organization,270857207
+Prevent,Food Safety,Canada,country,131970142
+Prevent,Food Safety,European Union,region,107701020
+Prevent,Food Safety,European Commission - International Partnerships,other_public_sector,91063074
+Prevent,Food Safety,World Bank,international_organization,68428830
+Prevent,Food Safety,International Development Association,sub-organization,68428830
+Prevent,Food Safety,Australia,country,54099870
+Prevent,Food Safety,Germany,country,53722909
+Prevent,Food Safety,Action Against Hunger,ngo,46596351
+Prevent,Food Safety,Action Against Hunger UK,sub-organization,46596351
+Prevent,Food Safety,United Kingdom,country,29752858
+Prevent,Food Safety,Bill & Melinda Gates Foundation,foundation,22254771
+Prevent,Food Safety,Save the Children,ngo,19222857
+Prevent,Food Safety,World Health Organization (WHO),international_organization,17755948
+Prevent,Food Safety,United Nations World Food Programme (WFP),sub-organization,15304133
+Prevent,Food Safety,UK - Department of Health and Social Care (DHSC),agency,10778418
+Prevent,Food Safety,Netherlands,country,9282979.0
+Prevent,Food Safety,Ireland,country,8508713.0
+Prevent,Food Safety,AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,7327184.0
+Prevent,Food Safety,Italy,country,7327184.0
+Prevent,Food Safety,Vlaamse Interuniversitaire Raad voor Universitaire Ontwikkelingssamenwerking (VLIR-UOS),academia,6163884.0
+Prevent,Food Safety,Millennium Challenge Corporation,agency,5821665.0
+Prevent,Food Safety,ICCO Cooperation,international_organization,5520514.0
+Prevent,Food Safety,Sweden,country,4724308.0
+Prevent,Food Safety,Norad - Norwegian Agency for Development Cooperation,agency,4203526.0
+Prevent,Food Safety,Norway,country,4203526.0
+Prevent,Food Safety,Switzerland,country,4008475.0
+Prevent,Food Safety,Netherlands Enterprise Agency (RVO),agency,3398687.0
+Prevent,Food Safety,Finland,country,3248147.0
+Prevent,Food Safety,Spain,country,2807412.0
+Prevent,Food Safety,New Zealand,country,1862598.0
+Prevent,Food Safety,Cordaid,ngo,1793349.0
+Prevent,Food Safety,France,country,1686609.0
+Prevent,Food Safety,Dorcas Aid International,ngo,1654031.0
+Prevent,Food Safety,International Labour Organization (ILO),international_organization,1519554.0
+Prevent,Food Safety,African Development Bank,international_organization,1485936.0
+Prevent,Food Safety,Stichting Red een Kind,international_organization,1228417.0
+Prevent,Food Safety,Plan International,ngo,1190430.0
+Prevent,Food Safety,"Denmark - Ministry of Foreign Affairs, Danida",agency,1144764.0
+Prevent,Food Safety,Denmark,country,1144764.0
+Prevent,Food Safety,Spanish Agency for International Development Cooperation (AECID),agency,866562.0
+Prevent,Food Safety,Save the Children Netherlands,sub-organization,775430.0
+Prevent,Food Safety,The Leprosy Mission England and Wales,sub-organization,730651.0
+Prevent,Food Safety,The Leprosy Mission,ngo,730651.0
+Prevent,Food Safety,World Organisation for Animal Health (OIE),international_organization,678423.0
+Prevent,Food Safety,TradeMark East Africa,ngo,645796.0
+Prevent,Food Safety,Louvain Coopération,ngo,645671.0
+Prevent,Food Safety,Plan International Nederland,sub-organization,623197.0
+Prevent,Food Safety,Plan International UK,sub-organization,567233.0
+Prevent,Food Safety,Stichting Vluchteling,international_organization,488129.0
+Prevent,Food Safety,United Nations Children's Fund (UNICEF),sub-organization,401819.0
+Prevent,Food Safety,Heifer Nederland,sub-organization,389657.0
+Prevent,Food Safety,Heifer International,ngo,389657.0
+Prevent,Food Safety,CARE International,ngo,301563.0
+Prevent,Food Safety,CARE Nederland,sub-organization,301563.0
+Prevent,Food Safety,Oxfam International,ngo,284612.0
+Prevent,Food Safety,Oxfam Novib,sub-organization,284612.0
+Prevent,Food Safety,HelpAge International,international_organization,272021.0
+Prevent,Food Safety,Health Poverty Action,ngo,270281.0
+Prevent,Food Safety,Slovakia,country,252211.0
+Prevent,Food Safety,Ministry of Foreign and European Affairs of the Slovak Republic,agency,252211.0
+Prevent,Food Safety,Republic of Korea,country,242549.0
+Prevent,Food Safety,BRAC International,sub-organization,227166.0
+Prevent,Food Safety,BRAC,ngo,227166.0
+Prevent,Food Safety,PHASE Worldwide,ngo,161622.0
+Prevent,Food Safety,DAI Global Health,private_sector,141643.0
+Prevent,Food Safety,Islamic Relief Worldwide,ngo,134694.0
+Prevent,Food Safety,Germany - Federal Foreign Office,agency,94163.0
+Prevent,Food Safety,Catholic Agency For Overseas Development (CAFOD),ngo,69885.0
+Prevent,Food Safety,Scottish Catholic International Aid Fund (SCIAF),international_organization,45315.0
+Prevent,Food Safety,World Jewish Relief,international_organization,36699.0
+Prevent,Food Safety,Nuffic,academia,35138.0
+Prevent,"IHR Coordination, Communicaton and Advocacy",Canada,country,11123518
+Prevent,"IHR Coordination, Communicaton and Advocacy",United States of America,country,8213758.0
+Prevent,"IHR Coordination, Communicaton and Advocacy",European Union,region,3355930.0
+Prevent,"IHR Coordination, Communicaton and Advocacy",China,country,95110.0
+Prevent,Immunization,Global Alliance for Vaccines and Immunisation (GAVI),international_organization,10522779505
+Prevent,Immunization,United States of America,country,5294616120
+Prevent,Immunization,United States Agency for International Development (USAID),agency,5245195412
+Prevent,Immunization,Bill & Melinda Gates Foundation,foundation,4402758833
+Prevent,Immunization,United Nations (UN),international_organization,3693746550
+Prevent,Immunization,United Nations Children's Fund (UNICEF),sub-organization,3659988928
+Prevent,Immunization,Canada,country,808378993
+Prevent,Immunization,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,579645528
+Prevent,Immunization,Germany,country,480095445
+Prevent,Immunization,World Health Organization (WHO),international_organization,421246441
+Prevent,Immunization,Asian Development Bank,international_organization,352970966
+Prevent,Immunization,European Union,region,337488130
+Prevent,Immunization,European Commission - International Partnerships,other_public_sector,303199602
+Prevent,Immunization,Norway,country,286343210
+Prevent,Immunization,United Kingdom,country,278274987
+Prevent,Immunization,Australia,country,202628218
+Prevent,Immunization,Switzerland,country,161804320
+Prevent,Immunization,World Bank,international_organization,157053371
+Prevent,Immunization,UK - Department of Health and Social Care (DHSC),agency,156191510
+Prevent,Immunization,Norad - Norwegian Agency for Development Cooperation,agency,144904051
+Prevent,Immunization,Sweden,country,103419220
+Prevent,Immunization,Netherlands,country,99473133
+Prevent,Immunization,International Development Association,sub-organization,82929699
+Prevent,Immunization,Wellcome Trust,foundation,82890480
+Prevent,Immunization,Palladium International Ltd (UK),sub-organization,79449264
+Prevent,Immunization,Palladium International Limited,private_sector,79449264
+Prevent,Immunization,Japan,country,78257866
+Prevent,Immunization,World Bank Trust Funds,multilateral,74123673
+Prevent,Immunization,Clinton Health Access Initiative,ngo,43175308
+Prevent,Immunization,United Nations Food and Agriculture Organization (FAO),sub-organization,25889194
+Prevent,Immunization,Finland,country,24066166
+Prevent,Immunization,Netherlands Enterprise Agency (RVO),agency,22788663
+Prevent,Immunization,Spain,country,22604058
+Prevent,Immunization,European Commission,agency,22508517
+Prevent,Immunization,"Denmark - Ministry of Foreign Affairs, Danida",agency,16271377
+Prevent,Immunization,Denmark,country,16271377
+Prevent,Immunization,New Zealand,country,15791957
+Prevent,Immunization,King Salman Humanitarian Aid and Relief Centre,foundation,15275784
+Prevent,Immunization,Options Consultancy Services,private_sector,10983242
+Prevent,Immunization,Crown Agents Limited,private_sector,10941665
+Prevent,Immunization,Italy,country,9887243.0
+Prevent,Immunization,AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,8329993.0
+Prevent,Immunization,United Nations Office for Project Services (UNOPS),sub-organization,7868428.0
+Prevent,Immunization,Aeras,international_organization,7420428.0
+Prevent,Immunization,Access to Medicine Foundation,foundation,6635132.0
+Prevent,Immunization,Giro555 (Stichting Samenwerkende Hulporganisaties),international_organization,6561118.0
+Prevent,Immunization,Unitaid,sub-organization,4654775.0
+Prevent,Immunization,Republic of Korea,country,3475811.0
+Prevent,Immunization,Paul Allen Foundation,foundation,2500000.0
+Prevent,Immunization,Vulcan Inc.,private_sector,2500000.0
+Prevent,Immunization,Boston University,academia,2182848.0
+Prevent,Immunization,France,country,1942232.0
+Prevent,Immunization,Aidsfonds - Soa Aids Nederland,international_organization,1807969.0
+Prevent,Immunization,Ministry of Foreign and European Affairs of the Slovak Republic,agency,1542847.0
+Prevent,Immunization,Slovakia,country,1542847.0
+Prevent,Immunization,Institute of Tropical Medicine,academia,1463557.0
+Prevent,Immunization,Sense International,ngo,1396172.0
+Prevent,Immunization,Karuna Mission Social Solidarity - KMSS,ngo,1222473.0
+Prevent,Immunization,World Vision International,international_organization,1150862.0
+Prevent,Immunization,World Vision UK,sub-organization,1150862.0
+Prevent,Immunization,Multilateral Investment Fund,multilateral,1000000.0
+Prevent,Immunization,UNICEF Netherlands National Committee,sub-organization,922987.0
+Prevent,Immunization,Ireland,country,896022.0
+Prevent,Immunization,Malaria Consortium,ngo,654509.0
+Prevent,Immunization,Charity Projects Ltd (Comic Relief),ngo,638282.0
+Prevent,Immunization,University of Birmingham,academia,614035.0
+Prevent,Immunization,Belgium,country,600492.0
+Prevent,Immunization,INTERSOS Onlus,international_organization,235885.0
+Prevent,Immunization,Sightsavers,ngo,181218.0
+Prevent,Immunization,Save the Children,ngo,177379.0
+Prevent,Immunization,UK - Ministry of Defence,agency,142026.0
+Prevent,Immunization,Ethiopiaid UK,sub-organization,93429.0
+Prevent,Immunization,Ethiopiaid,ngo,93429.0
+Prevent,Immunization,Catholic Agency For Overseas Development (CAFOD),ngo,92434.0
+Prevent,Immunization,Oxfam International,ngo,92355.0
+Prevent,Immunization,Oxfam Novib,sub-organization,92355.0
+Prevent,Immunization,Germany - Federal Foreign Office,agency,33923.0
+Prevent,Immunization,InvestInternational,private_sector,31634.0
+Prevent,Immunization,Indigo Trust,ngo,6712.0
+Prevent,Immunization,Millennium Challenge Corporation,agency,0.0
+Prevent,"National Legislation, Policy, and Financing",United States of America,country,3769209556
+Prevent,"National Legislation, Policy, and Financing",United States Agency for International Development (USAID),agency,3587656922
+Prevent,"National Legislation, Policy, and Financing","The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,1765088582
+Prevent,"National Legislation, Policy, and Financing",Canada,country,1481001988
+Prevent,"National Legislation, Policy, and Financing",Asian Development Bank,international_organization,634511464
+Prevent,"National Legislation, Policy, and Financing",World Bank,international_organization,489770237
+Prevent,"National Legislation, Policy, and Financing",International Development Association,sub-organization,406538469
+Prevent,"National Legislation, Policy, and Financing",Germany,country,391751001
+Prevent,"National Legislation, Policy, and Financing",Norway,country,357973517
+Prevent,"National Legislation, Policy, and Financing",Norad - Norwegian Agency for Development Cooperation,agency,357973517
+Prevent,"National Legislation, Policy, and Financing",European Union,region,329890057
+Prevent,"National Legislation, Policy, and Financing",Bill & Melinda Gates Foundation,foundation,254349688
+Prevent,"National Legislation, Policy, and Financing",United Kingdom,country,198284675
+Prevent,"National Legislation, Policy, and Financing",Abt Associates Inc,private_sector,189596654
+Prevent,"National Legislation, Policy, and Financing",Netherlands,country,175675409
+Prevent,"National Legislation, Policy, and Financing",European Commission - International Partnerships,other_public_sector,167276538
+Prevent,"National Legislation, Policy, and Financing",Inter-American Development Bank,international_organization,162229562
+Prevent,"National Legislation, Policy, and Financing",World Health Organization (WHO),international_organization,149021238
+Prevent,"National Legislation, Policy, and Financing",United Nations (UN),international_organization,140145377
+Prevent,"National Legislation, Policy, and Financing",United Nations Children's Fund (UNICEF),sub-organization,126675290
+Prevent,"National Legislation, Policy, and Financing",Sweden,country,117773327
+Prevent,"National Legislation, Policy, and Financing",Unitaid,sub-organization,102621091
+Prevent,"National Legislation, Policy, and Financing",France,country,92919678
+Prevent,"National Legislation, Policy, and Financing",World Bank Trust Funds,multilateral,82131768
+Prevent,"National Legislation, Policy, and Financing",Palladium International Limited,private_sector,79449264
+Prevent,"National Legislation, Policy, and Financing",Palladium International Ltd (UK),sub-organization,79449264
+Prevent,"National Legislation, Policy, and Financing",Belgium,country,64849238
+Prevent,"National Legislation, Policy, and Financing",Australia,country,61785495
+Prevent,"National Legislation, Policy, and Financing",The Power of Nutrition,ngo,56504000
+Prevent,"National Legislation, Policy, and Financing",Denmark,country,48618321
+Prevent,"National Legislation, Policy, and Financing","Denmark - Ministry of Foreign Affairs, Danida",agency,48618321
+Prevent,"National Legislation, Policy, and Financing",Millennium Challenge Corporation,agency,45493361
+Prevent,"National Legislation, Policy, and Financing",Switzerland,country,40269709
+Prevent,"National Legislation, Policy, and Financing",International Labour Organization (ILO),international_organization,36485036
+Prevent,"National Legislation, Policy, and Financing",Options Consultancy Services,private_sector,26117000
+Prevent,"National Legislation, Policy, and Financing",Finland,country,24250104
+Prevent,"National Legislation, Policy, and Financing",Plan International,ngo,20432038
+Prevent,"National Legislation, Policy, and Financing",Plan International Nederland,sub-organization,20432038
+Prevent,"National Legislation, Policy, and Financing",Crown Agents Limited,private_sector,10941665
+Prevent,"National Legislation, Policy, and Financing",AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,10405693
+Prevent,"National Legislation, Policy, and Financing",Italy,country,10405693
+Prevent,"National Legislation, Policy, and Financing",UK - Department of Health and Social Care (DHSC),agency,9369274.0
+Prevent,"National Legislation, Policy, and Financing",New Zealand,country,8576410.0
+Prevent,"National Legislation, Policy, and Financing",United Nations Food and Agriculture Organization (FAO),sub-organization,7400920.0
+Prevent,"National Legislation, Policy, and Financing",African Development Bank,international_organization,6900681.0
+Prevent,"National Legislation, Policy, and Financing",United Nations Office for Project Services (UNOPS),sub-organization,5252770.0
+Prevent,"National Legislation, Policy, and Financing",Rutgers,academia,4370661.0
+Prevent,"National Legislation, Policy, and Financing",International Development Law Organization (IDLO),international_organization,3805148.0
+Prevent,"National Legislation, Policy, and Financing",Liverpool School of Tropical Medicine,academia,3772866.0
+Prevent,"National Legislation, Policy, and Financing",Amref Health Africa,ngo,3081706.0
+Prevent,"National Legislation, Policy, and Financing",Amref Flying Doctors,sub-organization,2706939.0
+Prevent,"National Legislation, Policy, and Financing",Frontline AIDS,international_organization,2434393.0
+Prevent,"National Legislation, Policy, and Financing",Cordaid,ngo,2104213.0
+Prevent,"National Legislation, Policy, and Financing",Republic of Korea,country,1683726.0
+Prevent,"National Legislation, Policy, and Financing",Ireland,country,1581216.0
+Prevent,"National Legislation, Policy, and Financing",Clinton Health Access Initiative,ngo,1435776.0
+Prevent,"National Legislation, Policy, and Financing",Save the Children,ngo,1088492.0
+Prevent,"National Legislation, Policy, and Financing",CHOICE for Youth and Sexuality,ngo,962610.0
+Prevent,"National Legislation, Policy, and Financing",United Nations Capital Development Fund,sub-organization,816397.0
+Prevent,"National Legislation, Policy, and Financing",Spain,country,766390.0
+Prevent,"National Legislation, Policy, and Financing",Multilateral Investment Fund,multilateral,750000.0
+Prevent,"National Legislation, Policy, and Financing",Hivos,international_organization,673420.0
+Prevent,"National Legislation, Policy, and Financing",Louvain Coopération,ngo,645671.0
+Prevent,"National Legislation, Policy, and Financing",Germany - Federal Foreign Office,agency,561119.0
+Prevent,"National Legislation, Policy, and Financing",AFEW International,ngo,524303.0
+Prevent,"National Legislation, Policy, and Financing",Health Insurance Fund,international_organization,445972.0
+Prevent,"National Legislation, Policy, and Financing",Aidsfonds - Soa Aids Nederland,international_organization,424889.0
+Prevent,"National Legislation, Policy, and Financing",Oxfam International,ngo,384148.0
+Prevent,"National Legislation, Policy, and Financing",Oxfam Novib,sub-organization,384148.0
+Prevent,"National Legislation, Policy, and Financing",Amref Health Africa in Malawi,sub-organization,374767.0
+Prevent,"National Legislation, Policy, and Financing",Charity Projects Ltd (Comic Relief),ngo,373886.0
+Prevent,"National Legislation, Policy, and Financing",International Treatment Preparedness Coalition (ITPC),ngo,228210.0
+Prevent,"National Legislation, Policy, and Financing","UK - Department for Environment, Food and Rural Affairs",agency,221374.0
+Prevent,"National Legislation, Policy, and Financing",Nuffic,academia,207715.0
+Prevent,"National Legislation, Policy, and Financing",Sightsavers,ngo,162443.0
+Prevent,"National Legislation, Policy, and Financing",Sexual Reproductive Health and Rights Africa Trust,ngo,105520.0
+Prevent,"National Legislation, Policy, and Financing",HelpAge International,international_organization,56575.0
+Prevent,"National Legislation, Policy, and Financing",Catholic Agency For Overseas Development (CAFOD),ngo,41420.0
+Prevent,"National Legislation, Policy, and Financing",Centre for Economic Policy Research,ngo,40323.0
+Prevent,"National Legislation, Policy, and Financing",World Jewish Relief,international_organization,29079.0
+Prevent,"National Legislation, Policy, and Financing",Ministry of Foreign and European Affairs of the Slovak Republic,agency,18141.0
+Prevent,"National Legislation, Policy, and Financing",Slovakia,country,18141.0
+Prevent,Zoonotic Disease,United States of America,country,1171121036
+Prevent,Zoonotic Disease,United States Agency for International Development (USAID),agency,1123906786
+Prevent,Zoonotic Disease,United Nations (UN),international_organization,520878350
+Prevent,Zoonotic Disease,United Nations Food and Agriculture Organization (FAO),sub-organization,501182933
+Prevent,Zoonotic Disease,International Rescue Committee,ngo,463595641
+Prevent,Zoonotic Disease,Germany,country,410839517
+Prevent,Zoonotic Disease,Bill & Melinda Gates Foundation,foundation,352852817
+Prevent,Zoonotic Disease,World Bank,international_organization,201287976
+Prevent,Zoonotic Disease,International Rescue Committee UK,sub-organization,200646906
+Prevent,Zoonotic Disease,Canada,country,198956915
+Prevent,Zoonotic Disease,Asian Development Bank,international_organization,180000000
+Prevent,Zoonotic Disease,International Development Association,sub-organization,166843144
+Prevent,Zoonotic Disease,United Kingdom,country,156710055
+Prevent,Zoonotic Disease,European Union,region,131430601
+Prevent,Zoonotic Disease,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,125836279
+Prevent,Zoonotic Disease,Netherlands,country,103026925
+Prevent,Zoonotic Disease,European Commission - International Partnerships,other_public_sector,83663162
+Prevent,Zoonotic Disease,Norway,country,74255731
+Prevent,Zoonotic Disease,Norad - Norwegian Agency for Development Cooperation,agency,74255731
+Prevent,Zoonotic Disease,UK - Department of Health and Social Care (DHSC),agency,56744441
+Prevent,Zoonotic Disease,World Health Organization (WHO),international_organization,44901161
+Prevent,Zoonotic Disease,Australia,country,37358565
+Prevent,Zoonotic Disease,World Bank Trust Funds,multilateral,34444832
+Prevent,Zoonotic Disease,Global Alliance for Vaccines and Immunisation (GAVI),international_organization,31295256
+Prevent,Zoonotic Disease,Millennium Challenge Corporation,agency,29312942
+Prevent,Zoonotic Disease,France,country,25616625
+Prevent,Zoonotic Disease,Unitaid,sub-organization,23909716
+Prevent,Zoonotic Disease,Sweden,country,21293660
+Prevent,Zoonotic Disease,Netherlands Enterprise Agency (RVO),agency,16571446
+Prevent,Zoonotic Disease,Global Antibiotic Research and Development Partnership,public_private_partnership,14175862
+Prevent,Zoonotic Disease,New Zealand,country,13854894
+Prevent,Zoonotic Disease,InvestInternational,private_sector,11361851
+Prevent,Zoonotic Disease,Inter-American Development Bank,international_organization,10571742
+Prevent,Zoonotic Disease,United Nations Children's Fund (UNICEF),sub-organization,10500048
+Prevent,Zoonotic Disease,The Power of Nutrition,ngo,10400000
+Prevent,Zoonotic Disease,Switzerland,country,10300655
+Prevent,Zoonotic Disease,Belgium,country,10052714
+Prevent,Zoonotic Disease,United Nations World Food Programme (WFP),sub-organization,7942770.0
+Prevent,Zoonotic Disease,Institute of Tropical Medicine,academia,7125672.0
+Prevent,Zoonotic Disease,China,country,6000000.0
+Prevent,Zoonotic Disease,Italy,country,5659537.0
+Prevent,Zoonotic Disease,Charity Projects Ltd (Comic Relief),ngo,5448194.0
+Prevent,Zoonotic Disease,Options Consultancy Services,private_sector,5271337.0
+Prevent,Zoonotic Disease,AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,4591951.0
+Prevent,Zoonotic Disease,Spain,country,4406017.0
+Prevent,Zoonotic Disease,Finland,country,3915203.0
+Prevent,Zoonotic Disease,International Development Law Organization (IDLO),international_organization,3772524.0
+Prevent,Zoonotic Disease,African Development Bank,international_organization,1852785.0
+Prevent,Zoonotic Disease,Liverpool School of Tropical Medicine,academia,1516512.0
+Prevent,Zoonotic Disease,Save the Children,ngo,1496223.0
+Prevent,Zoonotic Disease,United Nations Office for Project Services (UNOPS),sub-organization,1252599.0
+Prevent,Zoonotic Disease,Karuna Mission Social Solidarity - KMSS,ngo,1222473.0
+Prevent,Zoonotic Disease,Concern Worldwide,international_organization,1204642.0
+Prevent,Zoonotic Disease,World Vision International,international_organization,1150862.0
+Prevent,Zoonotic Disease,World Vision UK,sub-organization,1150862.0
+Prevent,Zoonotic Disease,Cordaid,ngo,1020040.0
+Prevent,Zoonotic Disease,Farm Africa,international_organization,984089.0
+Prevent,Zoonotic Disease,Action Against Hunger UK,sub-organization,912007.0
+Prevent,Zoonotic Disease,Action Against Hunger,ngo,912007.0
+Prevent,Zoonotic Disease,Denmark,country,907071.0
+Prevent,Zoonotic Disease,"Denmark - Ministry of Foreign Affairs, Danida",agency,907071.0
+Prevent,Zoonotic Disease,EMMS International,ngo,727383.0
+Prevent,Zoonotic Disease,World Organisation for Animal Health (OIE),international_organization,678423.0
+Prevent,Zoonotic Disease,Hivos,international_organization,673420.0
+Prevent,Zoonotic Disease,Germany - Federal Foreign Office,agency,591854.0
+Prevent,Zoonotic Disease,Concern Worldwide UK,sub-organization,571489.0
+Prevent,Zoonotic Disease,Spanish Agency for International Development Cooperation (AECID),agency,433076.0
+Prevent,Zoonotic Disease,The Open University,academia,430491.0
+Prevent,Zoonotic Disease,Aidsfonds - Soa Aids Nederland,international_organization,315983.0
+Prevent,Zoonotic Disease,Oxfam Novib,sub-organization,276800.0
+Prevent,Zoonotic Disease,Oxfam International,ngo,276800.0
+Prevent,Zoonotic Disease,Ireland,country,256441.0
+Prevent,Zoonotic Disease,Restless Development,international_organization,248102.0
+Prevent,Zoonotic Disease,"UK - Department for Environment, Food and Rural Affairs",agency,221374.0
+Prevent,Zoonotic Disease,HelpAge International,international_organization,103888.0
+Prevent,Zoonotic Disease,Plan International UK,sub-organization,86600.0
+Prevent,Zoonotic Disease,Plan International,ngo,86600.0
+Prevent,Zoonotic Disease,Institute of Development Studies,academia,81688.0
+Prevent,Zoonotic Disease,Catholic Agency For Overseas Development (CAFOD),ngo,76756.0
+Prevent,Zoonotic Disease,World Jewish Relief,international_organization,66673.0
+Prevent,Zoonotic Disease,Nuffic,academia,35138.0
+Prevent,Zoonotic Disease,Ministry of Foreign and European Affairs of the Slovak Republic,agency,15776.0
+Prevent,Zoonotic Disease,Slovakia,country,15776.0
+Prevent,Zoonotic Disease,Republic of Korea,country,14496.0
+Prevent,Zoonotic Disease,Indigo Trust,ngo,11734.0
+Respond,Linking Public Health and Security Authorities,United States of America,country,85687825
+Respond,Linking Public Health and Security Authorities,Canada,country,35919005
+Respond,Linking Public Health and Security Authorities,United States Agency for International Development (USAID),agency,23166029
+Respond,Linking Public Health and Security Authorities,United Nations (UN),international_organization,16497348
+Respond,Linking Public Health and Security Authorities,United Nations Children's Fund (UNICEF),sub-organization,16497348
+Respond,Linking Public Health and Security Authorities,International Labour Organization (ILO),international_organization,15968141
+Respond,Linking Public Health and Security Authorities,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,13374417
+Respond,Linking Public Health and Security Authorities,European Union,region,12323406
+Respond,Linking Public Health and Security Authorities,Aidsfonds - Soa Aids Nederland,international_organization,6686402.0
+Respond,Linking Public Health and Security Authorities,Sweden,country,3066439.0
+Respond,Linking Public Health and Security Authorities,AFEW International,ngo,1756183.0
+Respond,Linking Public Health and Security Authorities,"Denmark - Ministry of Foreign Affairs, Danida",agency,1620928.0
+Respond,Linking Public Health and Security Authorities,Denmark,country,1620928.0
+Respond,Linking Public Health and Security Authorities,France,country,568397.0
+Respond,Linking Public Health and Security Authorities,Germany,country,553996.0
+Respond,Linking Public Health and Security Authorities,Germany - Federal Foreign Office,agency,553996.0
+Respond,Linking Public Health and Security Authorities,Frontline AIDS,international_organization,552268.0
+Respond,Linking Public Health and Security Authorities,Italy,country,546157.0
+Respond,Linking Public Health and Security Authorities,AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,546157.0
+Respond,Linking Public Health and Security Authorities,United Kingdom,country,475587.0
+Respond,Linking Public Health and Security Authorities,UK - Department of Health and Social Care (DHSC),agency,475587.0
+Respond,Linking Public Health and Security Authorities,Netherlands Enterprise Agency (RVO),agency,147200.0
+Respond,Linking Public Health and Security Authorities,Oxfam Novib,sub-organization,144064.0
+Respond,Linking Public Health and Security Authorities,Oxfam International,ngo,144064.0
+Respond,Linking Public Health and Security Authorities,Charity Projects Ltd (Comic Relief),ngo,140261.0
+Respond,Linking Public Health and Security Authorities,Plan International,ngo,57563.0
+Respond,Linking Public Health and Security Authorities,Plan International Nederland,sub-organization,57563.0
+Respond,Linking Public Health and Security Authorities,Nuffic,academia,51903.0
+Respond,Linking Public Health and Security Authorities,New Zealand,country,50520.0
+Respond,Linking Public Health and Security Authorities,Finland,country,41764.0
+Respond,Linking Public Health and Security Authorities,Catholic Agency For Overseas Development (CAFOD),ngo,27852.0
+Respond,Linking Public Health and Security Authorities,Spain,country,21752.0
+Respond,Linking Public Health and Security Authorities,HelpAge International,international_organization,9452.0
+Respond,Linking Public Health and Security Authorities,Diakonia Sweden,ngo,0.0
+Respond,Medical Countermeasures and Personnel Deployment,United States of America,country,6496575798
+Respond,Medical Countermeasures and Personnel Deployment,United States Agency for International Development (USAID),agency,6196866053
+Respond,Medical Countermeasures and Personnel Deployment,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,320946891
+Respond,Medical Countermeasures and Personnel Deployment,Bill & Melinda Gates Foundation,foundation,227151965
+Respond,Medical Countermeasures and Personnel Deployment,World Health Organization (WHO),international_organization,197739076
+Respond,Medical Countermeasures and Personnel Deployment,Unitaid,sub-organization,148236995
+Respond,Medical Countermeasures and Personnel Deployment,Canada,country,125426405
+Respond,Medical Countermeasures and Personnel Deployment,United Kingdom,country,61104655
+Respond,Medical Countermeasures and Personnel Deployment,European Union,region,49107876
+Respond,Medical Countermeasures and Personnel Deployment,UK - Department of Health and Social Care (DHSC),agency,26287711
+Respond,Medical Countermeasures and Personnel Deployment,United Nations (UN),international_organization,25579855
+Respond,Medical Countermeasures and Personnel Deployment,United Nations Children's Fund (UNICEF),sub-organization,25579855
+Respond,Medical Countermeasures and Personnel Deployment,Japan,country,20965900
+Respond,Medical Countermeasures and Personnel Deployment,Germany,country,16618837
+Respond,Medical Countermeasures and Personnel Deployment,Action Against Hunger UK,sub-organization,9036858.0
+Respond,Medical Countermeasures and Personnel Deployment,Action Against Hunger,ngo,9036858.0
+Respond,Medical Countermeasures and Personnel Deployment,Australia,country,9023057.0
+Respond,Medical Countermeasures and Personnel Deployment,The University of Oxford,academia,7392286.0
+Respond,Medical Countermeasures and Personnel Deployment,European Commission - International Partnerships,other_public_sector,6904765.0
+Respond,Medical Countermeasures and Personnel Deployment,International Development Association,sub-organization,5008250.0
+Respond,Medical Countermeasures and Personnel Deployment,World Bank,international_organization,5008250.0
+Respond,Medical Countermeasures and Personnel Deployment,DAI Global Health,private_sector,2743302.0
+Respond,Medical Countermeasures and Personnel Deployment,Asian Development Bank,international_organization,2731538.0
+Respond,Medical Countermeasures and Personnel Deployment,Amref Health Africa,ngo,2615911.0
+Respond,Medical Countermeasures and Personnel Deployment,Amref Flying Doctors,sub-organization,2456926.0
+Respond,Medical Countermeasures and Personnel Deployment,Sweden,country,1861241.0
+Respond,Medical Countermeasures and Personnel Deployment,China,country,1627754.0
+Respond,Medical Countermeasures and Personnel Deployment,New Zealand,country,1574624.0
+Respond,Medical Countermeasures and Personnel Deployment,Republic of Korea,country,1519830.0
+Respond,Medical Countermeasures and Personnel Deployment,Italy,country,1502896.0
+Respond,Medical Countermeasures and Personnel Deployment,African Development Bank,international_organization,956461.0
+Respond,Medical Countermeasures and Personnel Deployment,Sightsavers,ngo,862627.0
+Respond,Medical Countermeasures and Personnel Deployment,Liverpool School of Tropical Medicine,academia,499289.0
+Respond,Medical Countermeasures and Personnel Deployment,Oxfam International,ngo,409337.0
+Respond,Medical Countermeasures and Personnel Deployment,Oxfam Novib,sub-organization,409337.0
+Respond,Medical Countermeasures and Personnel Deployment,Amref Health Africa - UK,sub-organization,158984.0
+Respond,Medical Countermeasures and Personnel Deployment,Save the Children,ngo,152151.0
+Respond,Medical Countermeasures and Personnel Deployment,Denmark,country,85687.0
+Respond,Medical Countermeasures and Personnel Deployment,"Denmark - Ministry of Foreign Affairs, Danida",agency,85687.0
+Respond,Medical Countermeasures and Personnel Deployment,International Labour Organization (ILO),international_organization,73714.0
+Respond,Medical Countermeasures and Personnel Deployment,Catholic Agency For Overseas Development (CAFOD),ngo,67696.0
+Respond,Medical Countermeasures and Personnel Deployment,France,country,36666.0
+Respond,Medical Countermeasures and Personnel Deployment,Vlaamse Interuniversitaire Raad voor Universitaire Ontwikkelingssamenwerking (VLIR-UOS),academia,22930.0
+Respond,Preparedness,United States of America,country,1376768472
+Respond,Preparedness,World Bank,international_organization,1365804976
+Respond,Preparedness,International Development Association,sub-organization,1331686698
+Respond,Preparedness,United States Agency for International Development (USAID),agency,1227068932
+Respond,Preparedness,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,485141047
+Respond,Preparedness,United Nations (UN),international_organization,427777585
+Respond,Preparedness,United Kingdom,country,375871766
+Respond,Preparedness,Germany,country,358476038
+Respond,Preparedness,United Nations Food and Agriculture Organization (FAO),sub-organization,246278225
+Respond,Preparedness,World Health Organization (WHO),international_organization,167406109
+Respond,Preparedness,Norad - Norwegian Agency for Development Cooperation,agency,147176635
+Respond,Preparedness,Norway,country,147176635
+Respond,Preparedness,United Nations Children's Fund (UNICEF),sub-organization,145292781
+Respond,Preparedness,Finland,country,115272959
+Respond,Preparedness,European Union,region,107248923
+Respond,Preparedness,King Salman Humanitarian Aid and Relief Centre,foundation,98772726
+Respond,Preparedness,UK - Department of Health and Social Care (DHSC),agency,96073360
+Respond,Preparedness,Canada,country,85303111
+Respond,Preparedness,Sweden,country,79468188
+Respond,Preparedness,Action Against Hunger UK,sub-organization,69910419
+Respond,Preparedness,Action Against Hunger,ngo,69910419
+Respond,Preparedness,European Commission - International Partnerships,other_public_sector,53414857
+Respond,Preparedness,Australia,country,53214942
+Respond,Preparedness,Unitaid,sub-organization,46919306
+Respond,Preparedness,United Nations World Food Programme (WFP),sub-organization,36206579
+Respond,Preparedness,World Bank Trust Funds,multilateral,34118278
+Respond,Preparedness,DAI Europe,sub-organization,32914509
+Respond,Preparedness,Bill & Melinda Gates Foundation,foundation,25286876
+Respond,Preparedness,AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,19117216
+Respond,Preparedness,Italy,country,19117216
+Respond,Preparedness,"Denmark - Ministry of Foreign Affairs, Danida",agency,15036418
+Respond,Preparedness,Denmark,country,15036418
+Respond,Preparedness,International Labour Organization (ILO),international_organization,4569516.0
+Respond,Preparedness,Switzerland,country,4342574.0
+Respond,Preparedness,African Development Bank,international_organization,4168757.0
+Respond,Preparedness,King's College London,academia,4030629.0
+Respond,Preparedness,Oxfam International,ngo,3887701.0
+Respond,Preparedness,Oxfam Novib,sub-organization,3887701.0
+Respond,Preparedness,World Vision International,international_organization,3223711.0
+Respond,Preparedness,World Vision UK,sub-organization,3223711.0
+Respond,Preparedness,New Zealand,country,2348525.0
+Respond,Preparedness,Save the Children,ngo,2255036.0
+Respond,Preparedness,Netherlands Enterprise Agency (RVO),agency,2091774.0
+Respond,Preparedness,France,country,1829594.0
+Respond,Preparedness,Japan,country,1638500.0
+Respond,Preparedness,Medicos del Mundo,international_organization,1364011.0
+Respond,Preparedness,International Medical Corps UK,international_organization,727328.0
+Respond,Preparedness,Concern Worldwide,international_organization,642509.0
+Respond,Preparedness,Ministry of Foreign and European Affairs of the Slovak Republic,agency,405375.0
+Respond,Preparedness,Slovakia,country,405375.0
+Respond,Preparedness,Nuffic,academia,370689.0
+Respond,Preparedness,Concern Worldwide UK,sub-organization,313664.0
+Respond,Preparedness,Catholic Agency For Overseas Development (CAFOD),ngo,308588.0
+Respond,Preparedness,Institute of Development Studies,academia,163375.0
+Respond,Preparedness,Ireland,country,158122.0
+Respond,Preparedness,Cordaid,ngo,146522.0
+Respond,Preparedness,Spain,country,113700.0
+Respond,Preparedness,Cyan International,ngo,41946.0
+Respond,Preparedness,HelpAge International,international_organization,40830.0
+Respond,Risk Communication,United States of America,country,857817063
+Respond,Risk Communication,United States Agency for International Development (USAID),agency,832762016
+Respond,Risk Communication,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,260076966
+Respond,Risk Communication,United Nations Children's Fund (UNICEF),sub-organization,59526509
+Respond,Risk Communication,United Nations (UN),international_organization,59526509
+Respond,Risk Communication,World Health Organization (WHO),international_organization,55593160
+Respond,Risk Communication,Canada,country,52680733
+Respond,Risk Communication,Sweden,country,29625749
+Respond,Risk Communication,Australia,country,11998011
+Respond,Risk Communication,Bill & Melinda Gates Foundation,foundation,11545161
+Respond,Risk Communication,EngenderHealth Ethiopia,international_organization,7187235.0
+Respond,Risk Communication,Finland,country,1522268.0
+Respond,Risk Communication,Family Aids Caring Trust,ngo,838143.0
+Respond,Risk Communication,Medicos del Mundo,international_organization,682005.0
+Respond,Risk Communication,Italy,country,589140.0
+Respond,Risk Communication,Concern Worldwide,international_organization,560615.0
+Respond,Risk Communication,Norway,country,553817.0
+Respond,Risk Communication,Norad - Norwegian Agency for Development Cooperation,agency,553817.0
+Respond,Risk Communication,Save the Children,ngo,464095.0
+Respond,Risk Communication,Concern Worldwide UK,sub-organization,305410.0
+Respond,Risk Communication,International Labour Organization (ILO),international_organization,296183.0
+Respond,Risk Communication,European Commission - International Partnerships,other_public_sector,293843.0
+Respond,Risk Communication,European Union,region,293843.0
+Respond,Risk Communication,Welbodi Partnership,ngo,243868.0
+Respond,Risk Communication,INTERSOS Onlus,international_organization,235885.0
+Respond,Risk Communication,New Zealand,country,215592.0
+Respond,Risk Communication,Vlaamse Interuniversitaire Raad voor Universitaire Ontwikkelingssamenwerking (VLIR-UOS),academia,202779.0
+Respond,Risk Communication,UK - Department of Health and Social Care (DHSC),agency,120358.0
+Respond,Risk Communication,United Kingdom,country,120358.0
+Respond,Risk Communication,Oxfam Novib,sub-organization,92355.0
+Respond,Risk Communication,Oxfam International,ngo,92355.0
+Respond,Risk Communication,Switzerland,country,53392.0
+Respond,Risk Communication,Netherlands,country,38260.0
+Respond,Risk Communication,Republic of Korea,country,26001.0
+Respond,Risk Communication,Catholic Agency For Overseas Development (CAFOD),ngo,6770.0
+Unspecified,Unspecified,United States of America,country,38219314646
+Unspecified,Unspecified,United States Agency for International Development (USAID),agency,27250480735
+Unspecified,Unspecified,"The Global Fund to Fight AIDS, Tuberculosis and Malaria",international_organization,13621218663
+Unspecified,Unspecified,Bill & Melinda Gates Foundation,foundation,10173274248
+Unspecified,Unspecified,World Bank,international_organization,8026312076
+Unspecified,Unspecified,International Development Association,sub-organization,7269096022
+Unspecified,Unspecified,United Nations (UN),international_organization,7069212193
+Unspecified,Unspecified,European Union,region,4917010168
+Unspecified,Unspecified,European Commission - International Partnerships,other_public_sector,4101291146
+Unspecified,Unspecified,Netherlands,country,3476746733
+Unspecified,Unspecified,United Nations Children's Fund (UNICEF),sub-organization,3082596681
+Unspecified,Unspecified,Germany,country,3066129426
+Unspecified,Unspecified,United Nations Office for Project Services (UNOPS),sub-organization,2615531079
+Unspecified,Unspecified,Inter-American Development Bank,international_organization,2089519767
+Unspecified,Unspecified,World Health Organization (WHO),international_organization,1567708628
+Unspecified,Unspecified,Australia,country,1052093229
+Unspecified,Unspecified,Unitaid,sub-organization,931254326
+Unspecified,Unspecified,World Bank Trust Funds,multilateral,728806055
+Unspecified,Unspecified,Sweden,country,663925598
+Unspecified,Unspecified,Canada,country,638153150
+Unspecified,Unspecified,United Nations World Food Programme (WFP),sub-organization,488747680
+Unspecified,Unspecified,United Kingdom,country,480805214
+Unspecified,Unspecified,"Denmark - Ministry of Foreign Affairs, Danida",agency,454078624
+Unspecified,Unspecified,Denmark,country,454078624
+Unspecified,Unspecified,UK - Department of Health and Social Care (DHSC),agency,434085099
+Unspecified,Unspecified,Norad - Norwegian Agency for Development Cooperation,agency,409342957
+Unspecified,Unspecified,Norway,country,409342957
+Unspecified,Unspecified,The United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA),sub-organization,401580575
+Unspecified,Unspecified,Sightsavers,ngo,384613496
+Unspecified,Unspecified,France,country,371517643
+Unspecified,Unspecified,International Rescue Committee,ngo,348875525
+Unspecified,Unspecified,Italy,country,340594060
+Unspecified,Unspecified,AICS - Agenzia Italiana per la Cooperazione allo Sviluppo / Italian Agency for Cooperation and Development,agency,340594060
+Unspecified,Unspecified,Japan,country,329092220
+Unspecified,Unspecified,Finland,country,325423999
+Unspecified,Unspecified,Plan International,ngo,306772682
+Unspecified,Unspecified,United Nations Joint Programme on HIV and AIDS (UNAIDS),sub-organization,299984186
+Unspecified,Unspecified,MSI Reproductive Choices,ngo,298008606
+Unspecified,Unspecified,Malaria Consortium,ngo,296958363
+Unspecified,Unspecified,Switzerland,country,295200849
+Unspecified,Unspecified,Plan International USA,sub-organization,295122603
+Unspecified,Unspecified,Asian Development Bank,international_organization,237473288
+Unspecified,Unspecified,Save the Children,ngo,184244666
+Unspecified,Unspecified,New Zealand,country,165920254
+Unspecified,Unspecified,Spain,country,147944137
+Unspecified,Unspecified,Ireland,country,143264773
+Unspecified,Unspecified,African Development Bank,international_organization,135008022
+Unspecified,Unspecified,International Planned Parenthood Federation,ngo,133693153
+Unspecified,Unspecified,King Salman Humanitarian Aid and Relief Centre,foundation,123958399
+Unspecified,Unspecified,Belgium,country,113707873
+Unspecified,Unspecified,European Commission,agency,102406137
+Unspecified,Unspecified,United Nations Population Fund (UNFPA),sub-organization,92231109
+Unspecified,Unspecified,Options Consultancy Services,private_sector,89947026
+Unspecified,Unspecified,Republic of Korea,country,89887409
+Unspecified,Unspecified,United Nations Food and Agriculture Organization (FAO),sub-organization,88220011
+Unspecified,Unspecified,Netherlands Enterprise Agency (RVO),agency,85540245
+Unspecified,Unspecified,Palladium International Limited,private_sector,72020266
+Unspecified,Unspecified,Palladium International Ltd (UK),sub-organization,72020266
+Unspecified,Unspecified,International Rescue Committee UK,sub-organization,64091447
+Unspecified,Unspecified,Oxfam International,ngo,63264384
+Unspecified,Unspecified,Oxfam India,sub-organization,59498324
+Unspecified,Unspecified,Population Services Kenya,sub-organization,57419286
+Unspecified,Unspecified,Spanish Agency for International Development Cooperation (AECID),agency,56027607
+Unspecified,Unspecified,Girls’ Education Challenge – Fund Manager PwC,private_sector,47810635
+Unspecified,Unspecified,Rutgers,academia,47671107
+Unspecified,Unspecified,Voluntary Service Overseas (VSO),international_organization,44960382
+Unspecified,Unspecified,Concern Worldwide,international_organization,44030386
+Unspecified,Unspecified,Cordaid,ngo,42232098
+Unspecified,Unspecified,The Power of Nutrition,ngo,40560000
+Unspecified,Unspecified,Guttmacher Institute,international_organization,35646655
+Unspecified,Unspecified,Amref Health Africa,ngo,32705042
+Unspecified,Unspecified,Frontline AIDS,international_organization,32305510
+Unspecified,Unspecified,Stichting fondsbeheer DGGF lokaal MKB,ngo,32302690
+Unspecified,Unspecified,Clinton Health Access Initiative,ngo,30992556
+Unspecified,Unspecified,World Vision International,international_organization,30591888
+Unspecified,Unspecified,International Labour Organization (ILO),international_organization,30561350
+Unspecified,Unspecified,World Vision UK,sub-organization,29868422
+Unspecified,Unspecified,Ipas,ngo,28300363
+Unspecified,Unspecified,Restless Development,international_organization,27456244
+Unspecified,Unspecified,Abt Associates Inc,private_sector,27320676
+Unspecified,Unspecified,Global Antibiotic Research and Development Partnership,public_private_partnership,26370603
+Unspecified,Unspecified,Action Against Hunger UK,sub-organization,25580894
+Unspecified,Unspecified,Action Against Hunger,ngo,25580894
+Unspecified,Unspecified,DKT International,organization,23855770
+Unspecified,Unspecified,DKT Ethiopia,sub-organization,23855770
+Unspecified,Unspecified,HelpAge International,international_organization,23528999
+Unspecified,Unspecified,Charity Projects Ltd (Comic Relief),ngo,22868986
+Unspecified,Unspecified,Concern Worldwide UK,sub-organization,22426444
+Unspecified,Unspecified,Memisa,ngo,21834822
+Unspecified,Unspecified,Nutrition International,international_organization,19506360
+Unspecified,Unspecified,Amref Flying Doctors,sub-organization,19424482
+Unspecified,Unspecified,Population Services International,ngo,19240862
+Unspecified,Unspecified,Damiaanactie / Action Damien,ngo,18986473
+Unspecified,Unspecified,Millennium Challenge Corporation,agency,18897337
+Unspecified,Unspecified,Health Insurance Fund,international_organization,16980709
+Unspecified,Unspecified,CARE International,ngo,16764463
+Unspecified,Unspecified,Institute of Tropical Medicine,academia,15671044
+Unspecified,Unspecified,CARE International UK,sub-organization,15347082
+Unspecified,Unspecified,Boston University,academia,14347175
+Unspecified,Unspecified,InvestInternational,private_sector,14118953
+Unspecified,Unspecified,Handicap International,ngo,13945957
+Unspecified,Unspecified,PATH,ngo,12666032
+Unspecified,Unspecified,ULB-Coopération,academia,11982602
+Unspecified,Unspecified,ICCO Cooperation,international_organization,11369558
+Unspecified,Unspecified,Handicap International UK,sub-organization,11364702
+Unspecified,Unspecified,Aidsfonds - Soa Aids Nederland,international_organization,10732039
+Unspecified,Unspecified,Plan International UK,sub-organization,10224767
+Unspecified,Unspecified,Orbis Charitable Trust,ngo,8945321.0
+Unspecified,Unspecified,Send a Cow,ngo,8919116.0
+Unspecified,Unspecified,"UK - Department for Business, Energy and Industrial Strategy (BEIS)",agency,8836306.0
+Unspecified,Unspecified,Elrha,international_organization,8538880.0
+Unspecified,Unspecified,Amref Health Africa - UK,sub-organization,8297787.0
+Unspecified,Unspecified,COC Nederland,ngo,8187020.0
+Unspecified,Unspecified,Family Guidance Association of Ethiopia,ngo,7641154.0
+Unspecified,Unspecified,Académie de recherche et d'enseignement supérieur,academia,7355882.0
+Unspecified,Unspecified,Médecins Sans Vacances,ngo,6309215.0
+Unspecified,Unspecified,Wemos Foundation,international_organization,5681846.0
+Unspecified,Unspecified,Global Alliance for Vaccines and Immunisation (GAVI),international_organization,5633447.0
+Unspecified,Unspecified,Health Poverty Action,ngo,5597193.0
+Unspecified,Unspecified,HelpAge International UK,sub-organization,5299011.0
+Unspecified,Unspecified,BRAC,ngo,5156200.0
+Unspecified,Unspecified,Liverpool School of Tropical Medicine,academia,5149046.0
+Unspecified,Unspecified,China,country,5000000.0
+Unspecified,Unspecified,The Access to Nutrition Foundation,foundation,4972254.0
+Unspecified,Unspecified,DAI Europe,sub-organization,4924309.0
+Unspecified,Unspecified,Amref Health Africa in Kenya,sub-organization,4599839.0
+Unspecified,Unspecified,GOAL,ngo,4454144.0
+Unspecified,Unspecified,We World - GVC Onlus,international_organization,4361399.0
+Unspecified,Unspecified,Simavi,international_organization,4345898.0
+Unspecified,Unspecified,Germany - Federal Foreign Office,agency,4271318.0
+Unspecified,Unspecified,Association pour la Promotion de l'Education et de la Formation à l'Etranger,other_public_sector,4124393.0
+Unspecified,Unspecified,Montrose International LLP,academia,3881427.0
+Unspecified,Unspecified,Oxfam Novib,sub-organization,3766060.0
+Unspecified,Unspecified,Institute of Development Studies,academia,3645386.0
+Unspecified,Unspecified,Nuffic,academia,3608406.0
+Unspecified,Unspecified,Multilateral Investment Fund,multilateral,3378588.0
+Unspecified,Unspecified,The Hunger Project Netherlands,international_organization,3236118.0
+Unspecified,Unspecified,BRAC UK,sub-organization,3054441.0
+Unspecified,Unspecified,International Medical Corps UK,international_organization,3043391.0
+Unspecified,Unspecified,EMMS International,ngo,2987714.0
+Unspecified,Unspecified,International Procurement Agency,private_sector,2886971.0
+Unspecified,Unspecified,AFEW International,ngo,2810833.0
+Unspecified,Unspecified,Mainline,ngo,2782086.0
+Unspecified,Unspecified,dance4life,ngo,2721403.0
+Unspecified,Unspecified,Elton John AIDS Foundation,foundation,2697353.0
+Unspecified,Unspecified,Croix-Rouge de Belgique Communauté francophone - Activités internationales ASBL,sub-organization,2674173.0
+Unspecified,Unspecified,International Red Cross and Red Crescent Movement,international_organization,2674173.0
+Unspecified,Unspecified,Handicap International Belgique,sub-organization,2581254.0
+Unspecified,Unspecified,Slovakia,country,2549854.0
+Unspecified,Unspecified,Ministry of Foreign and European Affairs of the Slovak Republic,agency,2549854.0
+Unspecified,Unspecified,Cross-Government Prosperity Fund,agency,2381687.0
+Unspecified,Unspecified,Protecting Families Against HIV/AIDS,ngo,2297485.0
+Unspecified,Unspecified,Send a Cow Ethiopia,sub-organization,2175359.0
+Unspecified,Unspecified,BRAC International,sub-organization,2101759.0
+Unspecified,Unspecified,International Development Law Organization (IDLO),international_organization,2046554.0
+Unspecified,Unspecified,Royal Tropical Institute,foundation,1991279.0
+Unspecified,Unspecified,The Open University,academia,1970086.0
+Unspecified,Unspecified,CHOICE for Youth and Sexuality,ngo,1918860.0
+Unspecified,Unspecified,Ethiopiaid,ngo,1893548.0
+Unspecified,Unspecified,Vlaamse Interuniversitaire Raad voor Universitaire Ontwikkelingssamenwerking (VLIR-UOS),academia,1825171.0
+Unspecified,Unspecified,Tearfund,international_organization,1794891.0
+Unspecified,Unspecified,Orbis Ethiopia,sub-organization,1784315.0
+Unspecified,Unspecified,Louvain Coopération,ngo,1761240.0
+Unspecified,Unspecified,Ethiopiaid UK,sub-organization,1741806.0
+Unspecified,Unspecified,Send a Cow Kenya,sub-organization,1690339.0
+Unspecified,Unspecified,Catholic Agency For Overseas Development (CAFOD),ngo,1648981.0
+Unspecified,Unspecified,Chaîne de l'Espoir Belgique / Keten van Hoop België / Chain of Hope Belgium,ngo,1623388.0
+Unspecified,Unspecified,Turkey,country,1500000.0
+Unspecified,Unspecified,Tearfund VZW (TFBE),sub-organization,1496983.0
+Unspecified,Unspecified,UHAI EASHRI,foundation,1465387.0
+Unspecified,Unspecified,MannionDaniels,private_sector,1459995.0
+Unspecified,Unspecified,Doctors with Africa CUAMM,international_organization,1449806.0
+Unspecified,Unspecified,CARE Nederland,sub-organization,1369717.0
+Unspecified,Unspecified,Amref Health Africa in Uganda,sub-organization,1229492.0
+Unspecified,Unspecified,AfriKids,ngo,1198219.0
+Unspecified,Unspecified,Women's Global Network on Reproductive Rights,ngo,1095940.0
+Unspecified,Unspecified,Wereldsolidariteit-Solidarité Mondiale (WSM),ngo,1044358.0
+Unspecified,Unspecified,Aga Khan Foundation (United Kingdom),international_organization,1041793.0
+Unspecified,Unspecified,Plan International Nederland,sub-organization,1025947.0
+Unspecified,Unspecified,Russian Federation,country,1000000.0
+Unspecified,Unspecified,United Purpose,international_organization,972123.0
+Unspecified,Unspecified,ColaLife,ngo,956340.0
+Unspecified,Unspecified,Mifumi UK,sub-organization,955805.0
+Unspecified,Unspecified,Mifumi,ngo,955805.0
+Unspecified,Unspecified,Relief International UK,international_organization,923425.0
+Unspecified,Unspecified,Tropical Health and Education Trust,international_organization,911267.0
+Unspecified,Unspecified,"Medical Research Centre (MRC), Sierra Leone",ngo,896493.0
+Unspecified,Unspecified,Lepra,ngo,886750.0
+Unspecified,Unspecified,DAI Global Health,private_sector,872609.0
+Unspecified,Unspecified,Yamaan Foundation for Health and Social Development,ngo,866075.0
+Unspecified,Unspecified,Christian Blind Mission (UK) Ltd.,international_organization,851229.0
+Unspecified,Unspecified,Action Canada for Sexual Health and Rights,ngo,826250.0
+Unspecified,Unspecified,International Initiative for Impact Evaluation,international_organization,782738.0
+Unspecified,Unspecified,UK-Med,international_organization,758567.0
+Unspecified,Unspecified,University of Leeds,academia,751337.0
+Unspecified,Unspecified,World Vision Netherlands,sub-organization,723467.0
+Unspecified,Unspecified,Luxembourg,country,660000.0
+Unspecified,Unspecified,ARK (Absolute Return for Kids),international_organization,646049.0
+Unspecified,Unspecified,Women and Children First (UK),ngo,618367.0
+Unspecified,Unspecified,Leonard Cheshire Disability,international_organization,609998.0
+Unspecified,Unspecified,Agency for Cooperation and Research in Development (ACORD),international_organization,592737.0
+Unspecified,Unspecified,Initiative Sankofa d'Afrique de l'Ouest,international_organization,576592.0
+Unspecified,Unspecified,CUAMM Trustees,ngo,569049.0
+Unspecified,Unspecified,ChildHope UK,international_organization,549402.0
+Unspecified,Unspecified,Y Care International,ngo,544447.0
+Unspecified,Unspecified,Royal National Lifeboat Institution (RNLI),international_organization,542094.0
+Unspecified,Unspecified,Ethiopia,country,514662.0
+Unspecified,Unspecified,Azerbaijan,country,500000.0
+Unspecified,Unspecified,Universiti Malaya,academia,480457.0
+Unspecified,Unspecified,Compassion UK,international_organization,467648.0
+Unspecified,Unspecified,World Child Cancer,ngo,457392.0
+Unspecified,Unspecified,World Child Cancer UK,sub-organization,457392.0
+Unspecified,Unspecified,BasicNeeds,international_organization,454095.0
+Unspecified,Unspecified,Light For The World,ngo,452400.0
+Unspecified,Unspecified,Light For The World Belgium,sub-organization,452400.0
+Unspecified,Unspecified,Send a Cow Uganda (SACU),sub-organization,425691.0
+Unspecified,Unspecified,Alliance of Religions and Conservation,international_organization,418594.0
+Unspecified,Unspecified,Minority Rights Group,international_organization,411730.0
+Unspecified,Unspecified,Stichting Vluchteling,international_organization,404834.0
+Unspecified,Unspecified,Plan International Belgium,sub-organization,399365.0
+Unspecified,Unspecified,Save the Children Netherlands,sub-organization,395658.0
+Unspecified,Unspecified,Worldwide Hospice Palliative Care Alliance,international_organization,386981.0
+Unspecified,Unspecified,Amref Health Africa in Malawi,sub-organization,382935.0
+Unspecified,Unspecified,PHASE Worldwide,ngo,382040.0
+Unspecified,Unspecified,ActionAid International,international_organization,354373.0
+Unspecified,Unspecified,FHI360,international_organization,351277.0
+Unspecified,Unspecified,Feed the Minds,ngo,346322.0
+Unspecified,Unspecified,Food for the Hungry UK,sub-organization,343680.0
+Unspecified,Unspecified,Food for the Hungry,ngo,343680.0
+Unspecified,Unspecified,Afrikagrupperna Sweden,international_organization,342975.0
+Unspecified,Unspecified,Stichting Health Action International,ngo,342835.0
+Unspecified,Unspecified,Project Harar,ngo,342231.0
+Unspecified,Unspecified,Global Network of People Living with HIV (GNP+),international_organization,338856.0
+Unspecified,Unspecified,Kwame Nkrumah University of Science and Technology,academia,337742.0
+Unspecified,Unspecified,Target TB,international_organization,322436.0
+Unspecified,Unspecified,LAMB Health Care Foundation,ngo,321602.0
+Unspecified,Unspecified,UN Foundation,foundation,318001.0
+Unspecified,Unspecified,Global Green Growth Institute (GGGI),multilateral,306686.0
+Unspecified,Unspecified,ActionAid Rwanda,sub-organization,301885.0
+Unspecified,Unspecified,Palliative Care Support Trust,ngo,299978.0
+Unspecified,Unspecified,Disability and Development Partners,ngo,296902.0
+Unspecified,Unspecified,Conseil et Appui pour l'Education à la Base Mali,ngo,286996.0
+Unspecified,Unspecified,ZOA,international_organization,261855.0
+Unspecified,Unspecified,One to One Children's Fund,ngo,258077.0
+Unspecified,Unspecified,International Service,ngo,256041.0
+Unspecified,Unspecified,SOS Children's Villages The Netherlands,foundation,244111.0
+Unspecified,Unspecified,Simprints,ngo,238437.0
+Unspecified,Unspecified,HealthProm,ngo,228168.0
+Unspecified,Unspecified,International Campaign Women´s Right to Safe Abortion,ngo,212275.0
+Unspecified,Unspecified,BRAC University,academia,210561.0
+Unspecified,Unspecified,Amref Health Africa Headquarters,international_organization,208823.0
+Unspecified,Unspecified,interburns,ngo,201568.0
+Unspecified,Unspecified,IOD PARC,private_sector,197693.0
+Unspecified,Unspecified,International Primary Care Respiratory Group,academia,190963.0
+Unspecified,Unspecified,The Centre for Economic Governance and Accountability in Africa,ngo,182034.0
+Unspecified,Unspecified,South African Network of People who Use Drugs,ngo,179205.0
+Unspecified,Unspecified,Heifer International,ngo,162081.0
+Unspecified,Unspecified,Heifer Nederland,sub-organization,162081.0
+Unspecified,Unspecified,Danmission,ngo,159475.0
+Unspecified,Unspecified,Sisonke National Sex Workers Movement,ngo,155719.0
+Unspecified,Unspecified,Ethiopiaid Ireland,sub-organization,151742.0
+Unspecified,Unspecified,Ecorys UK,private_sector,136410.0
+Unspecified,Unspecified,Slovenia,country,134836.0
+Unspecified,Unspecified,Slovenia - Ministry of Foreign Affairs,agency,134836.0
+Unspecified,Unspecified,Survivors Fund (SURF),international_organization,129606.0
+Unspecified,Unspecified,IMC WORLDWIDE,private_sector,128179.0
+Unspecified,Unspecified,Joshua Orphan and Community Care,international_organization,123667.0
+Unspecified,Unspecified,Anti-Slavery International,international_organization,118267.0
+Unspecified,Unspecified,Johns Hopkins University,academia,112150.0
+Unspecified,Unspecified,Indigo Trust,ngo,90483.0
+Unspecified,Unspecified,"Imperial College of Science, Technology and Medicine",academia,83954.0
+Unspecified,Unspecified,GALZ,ngo,78774.0
+Unspecified,Unspecified,University Putra Malaysia,academia,76873.0
+Unspecified,Unspecified,Sehat Kahani (Community Innovation Hub),private_sector,76103.0
+Unspecified,Unspecified,Loughborough University,academia,71112.0
+Unspecified,Unspecified,kidasha,international_organization,70738.0
+Unspecified,Unspecified,Stichting Red een Kind,international_organization,64892.0
+Unspecified,Unspecified,Bangladesh Nari Progati Sangha,ngo,55007.0
+Unspecified,Unspecified,ActionAid UK,sub-organization,52488.0
+Unspecified,Unspecified,CARE Danmark Fonden for Frivillig Ulandsbistand,sub-organization,47665.0
+Unspecified,Unspecified,Timidria,ngo,45360.0
+Unspecified,Unspecified,Special Hope Network,ngo,35011.0
+Unspecified,Unspecified,African Initiatives,international_organization,34477.0
+Unspecified,Unspecified,Bangladesh Primary Care Respiratory Society,academia,34109.0
+Unspecified,Unspecified,"The Population Council, Inc.",academia,25000.0
+Unspecified,Unspecified,Practical Action,international_organization,20394.0
+Unspecified,Unspecified,Fundación Oriéntame,foundation,13920.0
+Unspecified,Unspecified,PositiveNegatives,other_public_sector,11342.0
+Unspecified,Unspecified,African Population and Health Research Center,organization,10000.0
+Unspecified,Unspecified,United Nations Development Programme (UNDP),sub-organization,2872.0
+Unspecified,Unspecified,Diakonia Sweden,ngo,872.0
+Unspecified,Unspecified,LTS International Limited,private_sector,23.0
+Unspecified,Unspecified,Oxfam Australia,sub-organization,0.0
+Unspecified,Unspecified,Development Organisation of the Rural Poor,ngo,0.0
