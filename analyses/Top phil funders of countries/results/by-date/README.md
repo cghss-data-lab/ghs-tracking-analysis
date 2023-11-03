@@ -1,0 +1,2 @@
+# By-date results
+This directory contains CSV(s) whose name(s) are the name of this directory's parent's parent directory suffixed with `__{DATE}.csv` where `{DATE}` is the date of creation in local format.
