@@ -8,7 +8,8 @@ WITH top_level_stakeholder_ids AS (
          SELECT s.region_who AS "Recipient WHO Region",
             c.fullname AS "Core capacity",
             c.name AS "Core capacity code",
-            sum(sf.value) AS "Total disbursed (nominal USD)"
+            sum(sf.value) AS "Total disbursed (nominal USD)",
+            sf.year as "Year"
            FROM stakeholders s
              JOIN flows_to_stakeholder_targets_direct_credit ftstdc ON ftstdc.stakeholder_id = s.id
              JOIN simple_flows sf ON sf.sf_id = ftstdc.flow_id
@@ -18,11 +19,12 @@ WITH top_level_stakeholder_ids AS (
                  AND sf.response_or_capacity = 'capacity'
                  AND (s.id IN ( SELECT top_level_stakeholder_ids.parent_id
                    FROM top_level_stakeholder_ids))
-          GROUP BY c.fullname, c.name, s.region_who
+          GROUP BY c.fullname, c.name, s.region_who, sf.year
           ORDER BY c.fullname, (sum(sf.value)) DESC
         )
  SELECT results."Recipient WHO Region",
     results."Core capacity",
     results."Core capacity code",
-    results."Total disbursed (nominal USD)"
+    results."Total disbursed (nominal USD)",
+    results."Year"
    FROM results
