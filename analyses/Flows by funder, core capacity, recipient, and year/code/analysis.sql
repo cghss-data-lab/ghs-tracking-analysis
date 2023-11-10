@@ -4,8 +4,10 @@ select
     ce.fullname AS "Category",
     cc.fullname AS "Core capacity",
     f.name AS "Funder Name",
-    f.subcat as "Funder Category",
+    f.sankey_cat as "Funder Category",
+    f.subcat as "Funder Subcategory",
     r.name AS "Recipient Name",
+    r.sankey_cat as "Recipient Category",
     r.subcat as "Recipient Category",
     SUM(sf.value) AS "Total Disbursed to Recipient"
 FROM
@@ -20,8 +22,7 @@ FROM
     core_capacities cc
 WHERE
     sf.flow_type = 'disbursed_funds'
-    AND r.subcat = 'country'
-    AND sf.year >= 2014
+    AND sf.year >= 2016
     AND sf.year <= 2022
     AND ctf.flow_id = sf.sf_id
     AND ctc.cc = ctf.cc_id
@@ -33,7 +34,9 @@ GROUP BY
     cc.fullname,
     ce.fullname,
     sf.year,
+    r.sankey_cat,
     r.subcat,
+    f.sankey_cat,
     f.subcat,
     sf.response_or_capacity
 ORDER BY
