@@ -8,7 +8,7 @@ select
     f.subcat as "Funder Subcategory",
     r.name AS "Recipient Name",
     r.sankey_cat as "Recipient Category",
-    r.subcat as "Recipient Category",
+    r.subcat as "Recipient Subcategory",
     SUM(sf.value) AS "Total Disbursed to Recipient"
 FROM
     stakeholders r
