@@ -14,8 +14,6 @@ FROM
 WHERE
     sf.flow_type = 'disbursed_funds'
     AND sf.response_or_capacity = 'response'
-    AND r.subcat = 'country'
-    AND sf.year >= 2014
 GROUP BY
     r.name,
     f.name,
