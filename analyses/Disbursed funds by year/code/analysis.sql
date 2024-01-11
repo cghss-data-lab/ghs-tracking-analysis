@@ -16,7 +16,16 @@ total AS (
     AND sf.year BETWEEN 2016 AND 2022
     AND sf.response_or_capacity = 'capacity'
   GROUP BY sf."year"
+),
+response AS (
+  SELECT sf.year AS "Year", ROUND(SUM(sf.value)) AS "Response"
+  FROM simple_flows sf
+  WHERE sf.flow_type = 'disbursed_funds'
+    AND sf.year BETWEEN 2016 AND 2022
+    AND sf.response_or_capacity = 'response'
+  GROUP BY sf."year"
 )
-SELECT s."Year", s."Specified", t."Total" - s."Specified" AS "Unspecified"
-FROM specified s
-JOIN total t ON s."Year" = t."Year";
+SELECT specified."Year", specified."Specified", total."Total" - specified."Specified" AS "Unspecified", response."Response"
+FROM response
+JOIN specified ON specified."Year" = response."Year"
+JOIN total ON specified."Year" = total."Year";
