@@ -1,0 +1,15 @@
+"Funder","Recipient","Total Value (2016-2019)","Total Value (2020-2022)"
+Country,Country,49379224158,53530135428
+International,Country,42585572938,74319757047
+Country,International,14371184064,15272735380
+Country,Other,11925573982,9352234474
+Philanthropy,Country,10252153738,5620299539
+International,Other,2883814577,2617301741
+International,International,311000812,506696344
+Other,Country,177233939,129862226
+Philanthropy,International,113513635,163212119
+Philanthropy,Philanthropy,4750000.0,0.0
+Other,International,4048002.0,450960034
+Other,Philanthropy,1000000.0,0.0
+Philanthropy,Other,550000.0,26094450
+Other,Other,0.0,2000000.0
