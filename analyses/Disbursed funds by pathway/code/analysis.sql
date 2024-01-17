@@ -1,8 +1,10 @@
 SELECT
     s1.sankey_cat AS "Funder",
     s2.sankey_cat AS "Recipient",
-    ROUND(SUM(CASE WHEN sf."year" BETWEEN 2016 AND 2019 THEN sf.value ELSE 0 END)) AS "Total Value (2016-2019)",
-    ROUND(SUM(CASE WHEN sf."year" BETWEEN 2020 AND 2022 THEN sf.value ELSE 0 END)) AS "Total Value (2020-2022)"
+    (SUM(CASE WHEN sf."year" BETWEEN 2016 AND 2019 THEN sf.value ELSE 0 END)) AS "Total Value (2016-2019)",
+    (SUM(CASE WHEN sf."year" BETWEEN 2020 AND 2022 THEN sf.value ELSE 0 END)) AS "Total Value (2020-2022)",
+    (SUM(CASE WHEN sf."year" BETWEEN 2016 AND 2019 THEN sf.value ELSE 0 END) * 100 / SUM(SUM(CASE WHEN sf."year" BETWEEN 2016 AND 2019 THEN sf.value ELSE 0 END)) OVER ()) AS "Percent of Total Funding (2016-2019)",
+    (SUM(CASE WHEN sf."year" BETWEEN 2020 AND 2022 THEN sf.value ELSE 0 END) * 100 / SUM(SUM(CASE WHEN sf."year" BETWEEN 2020 AND 2022 THEN sf.value ELSE 0 END)) OVER ()) AS "Percent of Total Funding (2020-2022)"
 FROM
     flows_to_stakeholder_origins_direct_credit ftsodc
 JOIN
